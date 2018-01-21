@@ -286,6 +286,7 @@
 - [Soft murmur](http://asoftmurmur.com/)
 
 ## Tools
+- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Bitcoin now](https://bitcoin.now.sh/)
 - [Tube replay](http://www.tubereplay.com/)
 - [Draw.io](https://www.draw.io/)
