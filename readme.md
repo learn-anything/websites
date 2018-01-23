@@ -80,6 +80,7 @@
 - [Leetcode](https://leetcode.com)
 - [Kaggle](https://www.kaggle.com/)
 - [Quanta magazine](https://www.quantamagazine.org/)
+- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Barnacles](https://barnacl.es/)
 - [N-gate](http://n-gate.com/)
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page)
