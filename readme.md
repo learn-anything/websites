@@ -2,6 +2,7 @@
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## General
+- [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
 - [GitHub issues](https://github.com/issues)
 - [Git awards](http://git-awards.com)
 - [GitHub profile visualiser](https://github-profile-summary.com/search)
@@ -80,7 +81,6 @@
 - [Leetcode](https://leetcode.com)
 - [Kaggle](https://www.kaggle.com/)
 - [Quanta magazine](https://www.quantamagazine.org/)
-- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Barnacles](https://barnacl.es/)
 - [N-gate](http://n-gate.com/)
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page)
@@ -144,6 +144,7 @@
 - [21.co](https://21.co/)
 - [Itch.io](https://itch.io/)
 - [Hacker news ranking](http://hnrankings.info/search/)
+- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 
 ## Russian
 - [Postnauka](https://postnauka.ru/)
@@ -167,13 +168,6 @@
 
 ## Images
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/)
-
-## Games
-- [Online go](https://online-go.com/play)
-- [Thinking chess](http://www.bewitched.com/chess/)
-- [Human benchmark](https://www.humanbenchmark.com/tests/memory)
-- [The ai games](http://theaigames.com/)
-- [Lichess](https://lichess.org/)
 
 ## Wiki
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
