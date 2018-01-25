@@ -194,6 +194,9 @@
 ## Jobs
 - [Graduateland](https://graduateland.com/dashboard)
 
+## Cryptocurrencies
+- [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
+
 ## Profiles
 - [Gwern](https://www.gwern.net/)
 
