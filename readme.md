@@ -145,6 +145,7 @@
 - [Itch.io](https://itch.io/)
 - [Hacker news ranking](http://hnrankings.info/search/)
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
+- [Mozilla Thimble](https://thimble.mozilla.org/en-US/)
 
 ## Russian
 - [Postnauka](https://postnauka.ru/)
