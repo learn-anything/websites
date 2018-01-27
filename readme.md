@@ -107,14 +107,6 @@
 - [Trakt](https://trakt.tv/dashboard)
 - [Grouvee](https://www.grouvee.com/)
 - [Goodreads](https://www.goodreads.com/)
-- [EdX](https://www.edx.org/)
-- [Udacity](https://www.udacity.com/)
-- [Udemy](https://www.udemy.com/user/nikitavoloboev/)
-- [Ted](https://www.ted.com/)
-- [Metacademy](https://www.metacademy.org/)
-- [Mit courses](https://ocw.mit.edu/courses/)
-- [Coursera](https://www.coursera.org/)
-- [Explained visually](http://setosa.io/ev/)
 - [Open yale courses](http://oyc.yale.edu/)
 - [Khan academy](http://www.openculture.com/)
 - [World statistics updated real time](http://www.worldometers.info/)
@@ -146,6 +138,17 @@
 - [Hacker news ranking](http://hnrankings.info/search/)
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Mozilla Thimble](https://thimble.mozilla.org/en-US/)
+
+## Learning
+- [Courseroot](https://courseroot.com/) - Search best online courses.
+- [EdX](https://www.edx.org/)
+- [Udacity](https://www.udacity.com/)
+- [Udemy](https://www.udemy.com/user/nikitavoloboev/)
+- [TED](https://www.ted.com/)
+- [Metacademy](https://www.metacademy.org/)
+- [MIT courses](https://ocw.mit.edu/courses/)
+- [Coursera](https://www.coursera.org/)
+- [Explained visually](http://setosa.io/ev/)
 
 ## Russian
 - [Postnauka](https://postnauka.ru/)
