@@ -216,7 +216,8 @@
 - [Instagram](https://www.instagram.com/)
 
 ## Forums
-- [Swift forum](https://forums.swift.org/latest)
+- [Swift](https://forums.swift.org/latest)
+- [fast.ai deep learning](http://forums.fast.ai/)
 - [Users rust](https://users.rust-lang.org)
 - [Keyboard Maestro](https://forum.keyboardmaestro.com/latest)
 - [Longecity](http://www.longecity.org/forum/)
