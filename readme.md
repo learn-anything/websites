@@ -344,6 +344,9 @@
 - [Go FAQ](https://golang.org/doc/faq#nil_error)
 - [Go compiler explorer](https://go.godbolt.org/)
 
+## Fun
+- [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
+
 ## Finance
 - [Finviz](http://finviz.com/)
 - [Trading view](https://www.tradingview.com/)
