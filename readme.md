@@ -346,6 +346,7 @@
 
 ## Fun
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
+- [First PR](http://firstpr.me) - See the first GitHub PR you made.
 
 ## Finance
 - [Finviz](http://finviz.com/)
