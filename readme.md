@@ -290,6 +290,7 @@
 
 ## Tools
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
+- [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
 - [Bitcoin now](https://bitcoin.now.sh/)
 - [Tube replay](http://www.tubereplay.com/)
 - [Draw.io](https://www.draw.io/)
