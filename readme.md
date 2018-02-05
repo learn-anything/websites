@@ -173,6 +173,9 @@
 ## Images
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/)
 
+## Machine learning
+- [DataQuest](https://www.dataquest.io/)
+
 ## Wiki
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
 
