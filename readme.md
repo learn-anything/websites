@@ -3,6 +3,7 @@
 
 ## General
 - [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
+- [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
 - [GitHub issues](https://github.com/issues)
 - [Git awards](http://git-awards.com)
 - [GitHub profile visualiser](https://github-profile-summary.com/search)
