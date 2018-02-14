@@ -14,16 +14,15 @@
 - [Brain pickings](https://www.brainpickings.org/)
 - [The working lunch](https://theworkinglunch.co/)
 - [How stuff works](http://www.howstuffworks.com/)
-- [All reddit](https://www.reddit.com/r/all/)
 - [Netlify](https://www.netlify.com/)
 - [Overcast](https://overcast.fm/podcasts)
 - [The setup](https://usesthis.com/)
-- [Jupyter notebook](http://nbviewer.jupyter.org/)
+- [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Notebooks done in Python
 - [Medium drafts](https://medium.com/me/stories/drafts)
 - [Fast company](https://www.fastcompany.com/)
 - [Artsy](https://www.artsy.net/)
 - [Geeksforgeeks](http://www.geeksforgeeks.org/)
-- [Brilliant](https://brilliant.org/)
+- [Brilliant](https://brilliant.org/) - Online math brain puzzles
 - [Gitxiv](http://www.gitxiv.com/)
 - [Firebase](https://console.firebase.google.com/?pli=1)
 - [Massdrop](https://www.massdrop.com/my-communities)
@@ -35,10 +34,8 @@
 - [Coworking coffee](https://www.coworking.coffee/)
 - [Imzy](https://www.imzy.com/)
 - [Pixabay](https://pixabay.com/)
-- [Bandcamp](https://bandcamp.com/)
 - [Arbital](https://arbital.com/)
 - [Interview cake](https://www.interviewcake.com/)
-- [Code academy](https://www.codecademy.com/learn/all)
 - [Pastebin](https://pastebin.com/)
 - [Telegraph](http://telegra.ph/)
 - [Docker hub](https://hub.docker.com/)
@@ -50,7 +47,7 @@
 - [Skyscanner](https://www.skyscanner.net/)
 - [Lecture search](https://www.findlectures.com/)
 - [Chemdiary](https://chemdiary.com/users/sign_in)
-- [Proton mail](https://mail.protonmail.com/login)
+- [Proton mail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland
 - [Github info](http://githut.info/)
 - [Github](https://github.com/)
 - [Github trending](https://github.com/trending)
@@ -62,16 +59,15 @@
 - [Arxiv](https://arxiv.org/)
 - [Google trends](https://trends.google.com/trends/)
 - [Azquotes](http://www.azquotes.com/)
-- [Google docs](https://docs.google.com/document/u/0/)
-- [Google forms](https://docs.google.com/forms/u/0/)
+- [Google docs](https://docs.google.com/document/u/0/) - Online collaboration for all your office documents
+- [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling
 - [Booking](https://www.booking.com/)
-- [Reddit](https://www.reddit.com)
+- [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section
 - [Quora](https://www.quora.com/)
 - [Heroku apps](https://dashboard.heroku.com/apps)
 - [Stack real time](https://stackexchange.com/questions?tab=realtime)
 - [Google dashboard](https://myaccount.google.com/dashboard)
-- [Pocket](https://getpocket.com/a/queue/list/)
-- [Soundcloud](https://soundcloud.com/stream)
+- [Pocket](https://getpocket.com/a/queue/list/) - Save links for later
 - [Google slides](https://docs.google.com/presentation/u/0/)
 - [Bold.io](https://bold.io/)
 - [Pinboard recent](https://pinboard.in/recent/)
@@ -80,7 +76,7 @@
 - [Learn anything](https://learn-anything.xyz)
 - [Npm](https://www.npmjs.com/)
 - [Leetcode](https://leetcode.com)
-- [Kaggle](https://www.kaggle.com/)
+- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Mining
 - [Quanta magazine](https://www.quantamagazine.org/)
 - [Barnacles](https://barnacl.es/)
 - [N-gate](http://n-gate.com/)
@@ -101,15 +97,13 @@
 - [Exercism](http://exercism.io/)
 - [Project euler](https://projecteuler.net/archives)
 - [Vim awesome](http://vimawesome.com/)
-- [W3schools](https://www.w3schools.com/)
+- [W3schools](https://www.w3schools.com/) - The standard for Web Development
 - [IFTT](https://ifttt.com/discover)
 - [Namecheap](https://www.namecheap.com/)
 - [Matrix multiplication](http://matrixmultiplication.xyz/)
-- [Trakt](https://trakt.tv/dashboard)
+- [Trakt](https://trakt.tv/dashboard) - Track which TV shows and Movies you've watched
 - [Grouvee](https://www.grouvee.com/)
 - [Goodreads](https://www.goodreads.com/)
-- [Open yale courses](http://oyc.yale.edu/)
-- [Khan academy](http://www.openculture.com/)
 - [World statistics updated real time](http://www.worldometers.info/)
 - [Coderpad](https://coderpad.io/)
 - [Skytorrents](https://www.skytorrents.in/)
@@ -121,9 +115,9 @@
 - [Music player for reddit](https://reddit.musicplayer.io/)
 - [Gnoosic](http://www.gnoosic.com/)
 - [Unsplash](https://unsplash.com/)
-- [Twitch](https://www.twitch.tv/)
+- [Twitch](https://www.twitch.tv/) - Free online streaming platform
 - [Rutracker](http://rutracker.org/forum/index.php)
-- [Snoopsnoo](https://snoopsnoo.com/)
+- [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
 - [Numbeo](https://www.numbeo.com/common/)
 - [Codepen](https://codepen.io/)
 - [HN favourites](http://www.hnfavorites.com/#)
@@ -133,23 +127,24 @@
 - [Readspike](https://readspike.com/)
 - [Pinboard popular](https://pinboard.in/popular/)
 - [Lobsters](https://lobste.rs/)
-- [Facebook](https://www.facebook.com/)
 - [21.co](https://21.co/)
 - [Itch.io](https://itch.io/)
 - [Hacker news ranking](http://hnrankings.info/search/)
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
-- [Mozilla Thimble](https://thimble.mozilla.org/en-US/)
+- [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor
 
 ## Learning
 - [Courseroot](https://courseroot.com/) - Search best online courses.
 - [EdX](https://www.edx.org/)
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/user/nikitavoloboev/)
-- [TED](https://www.ted.com/)
+- [TED](https://www.ted.com/) - Free Expert Academic Talks
 - [Metacademy](https://www.metacademy.org/)
 - [MIT courses](https://ocw.mit.edu/courses/)
 - [Coursera](https://www.coursera.org/)
 - [Explained visually](http://setosa.io/ev/)
+- [Open yale courses](http://oyc.yale.edu/)
+- [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials
 
 ## Russian
 - [Postnauka](https://postnauka.ru/)
@@ -165,7 +160,7 @@
 - [Mindnode](https://mindnode.com/)
 - [Pixave](http://www.littlehj.com/)
 - [Km](https://www.keyboardmaestro.com/main/)
-- [Telegram](https://telegram.org/)
+- [Telegram](https://telegram.org/) - Secure Messaging App
 - [Dash](https://kapeli.com/dash)
 - [Bartender](https://www.macbartender.com/)
 - [Typinator](http://www.ergonis.com/products/typinator/)
@@ -187,7 +182,7 @@
 - [PH today](http://ph.needles.me/)
 - [No excuse](http://ph.needles.me/)
 - [Favourite and forget](http://usefulinterweb.com/)
-- [Stack overflow](https://stackoverflow.com/)
+- [Stack overflow](https://stackoverflow.com/) - Programming Help Forum
 - [Freecodecamp](https://www.freecodecamp.com/)
 - [Product hunt](https://www.producthunt.com/)
 - [Medium](https://medium.com/)
@@ -197,7 +192,7 @@
 - [Eventbrite](https://www.eventbrite.com/)
 - [Hackerrank](https://www.hackerrank.com/)
 - [Interviewbit](https://www.interviewbit.com/)
-- [YouTube](https://www.youtube.com/)
+- [YouTube](https://www.youtube.com/) - Free Online Video Sharing
 
 ## Jobs
 - [Graduateland](https://graduateland.com/dashboard)
@@ -259,7 +254,7 @@
 - [Nofile 2](https://nofile.io/)
 - [Golang news](https://golangnews.com/)
 - [Steemit](https://steemit.com/@nikivi/feed)
-- [Desmos](https://www.desmos.com)
+- [Desmos](https://www.desmos.com) - Online Graphing Utility
 - [We love golang](https://www.welovegolang.com/)
 - [Digital ocean](https://www.digitalocean.com/)
 - [Codewars](https://www.codewars.com/)
@@ -272,13 +267,15 @@
 - [Meetup](http://www.meetup.com/)
 - [Whatsapp](https://web.whatsapp.com/)
 - [Google plus](https://plus.google.com/)
+- [Facebook](https://www.facebook.com/)
+- [All reddit](https://www.reddit.com/r/all/) - All trending posts from all Reddit Subreddits
 
 ## Search
 - [Slant](https://www.slant.co/)
 - [Aminer](https://cn.aminer.org/)
-- [Duckduckgo](https://duckduckgo.com/)
+- [Duckduckgo](https://duckduckgo.com/) - Private Web Searching
 - [Yandex](https://www.yandex.com/)
-- [Google scholar](https://scholar.google.nl/)
+- [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles
 
 ## Music
 - [Last.fm](https://www.last.fm/home)
@@ -288,9 +285,11 @@
 - [Touch pianist](http://touchpianist.com/)
 - [Jazz and rain](http://www.jazzandrain.com/)
 - [Designer mix](https://designers.mx/)
-- [Denver ](http://youarelistening.to/denver)
+- [Denver](http://youarelistening.to/denver)
 - [Music for programming](http://www.musicforprogramming.net/?c=aesthetic)
 - [Soft murmur](http://asoftmurmur.com/)
+- [Soundcloud](https://soundcloud.com/stream) - Music streaming
+- [Bandcamp](https://bandcamp.com/)
 
 ## Tools
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
@@ -304,12 +303,13 @@
 - [Streamable](https://streamable.com/)
 - [Sleep time](http://sleepyti.me/)
 - [Fast fingers](https://10fastfingers.com/typing-test/english)
-- [Thesaurus](http://www.thesaurus.com/)
-- [Sharelatex](https://www.sharelatex.com)
+- [Thesaurus](http://www.thesaurus.com/) - Online Thesaurus
+- [Sharelatex](https://www.sharelatex.com) - Online LaTeX editing
+- [Overleaf](https://www.overleaf.com) - Online LaTeX editing
 - [Regex101](https://regex101.com/)
 - [Asciinema](https://asciinema.org/~nikivi)
 - [Symbolab](https://www.symbolab.com/)
-- [Wolfram alpha](http://www.wolframalpha.com/)
+- [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717)
 - [Google translate](https://translate.google.com/)
 - [Crontab guru](https://crontab.guru/)
@@ -345,7 +345,7 @@
 - [Realm](https://realm.io/)
 - [Leetcode discuss](https://discuss.leetcode.com/category/5/interview-questions)
 - [Codility](https://codility.com/programmers/)
-- [Mozilla dev](https://developer.mozilla.org/)
+- [Mozilla dev](https://developer.mozilla.org/) - 
 - [Go FAQ](https://golang.org/doc/faq#nil_error)
 - [Go compiler explorer](https://go.godbolt.org/)
 

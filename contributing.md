@@ -6,7 +6,7 @@ Ensure your pull request adheres to the following guidelines:
 - Only add websites you really think are actually interesting.
 - Start the description with a capital and end with a full stop.
 - Don't start the description with `A` or `An`.
-- New categories or improvements to the existing categorisation are welcome.
+- New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - You can also add other related websites and repositories in the end.
 
