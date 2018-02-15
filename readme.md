@@ -150,6 +150,7 @@
 - [MIT courses](https://ocw.mit.edu/courses/)
 - [Coursera](https://www.coursera.org/)
 - [Explained visually](http://setosa.io/ev/)
+- [Physics Travel Guide](https://physicstravelguide.com)
 
 ## Russian
 - [Postnauka](https://postnauka.ru/)
