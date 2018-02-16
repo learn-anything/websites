@@ -143,6 +143,7 @@
 - [Explained visually](http://setosa.io/ev/)
 - [Open yale courses](http://oyc.yale.edu/)
 - [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials
+- [Physics Travel Guide](https://physicstravelguide.com)
 
 ## Russian
 - [Postnauka](https://postnauka.ru/)
