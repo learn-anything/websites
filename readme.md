@@ -17,7 +17,7 @@
 - [Netlify](https://www.netlify.com/)
 - [Overcast](https://overcast.fm/podcasts)
 - [The setup](https://usesthis.com/)
-- [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Notebooks done in Python
+- [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python
 - [Medium drafts](https://medium.com/me/stories/drafts)
 - [Fast company](https://www.fastcompany.com/)
 - [Artsy](https://www.artsy.net/)
@@ -26,7 +26,7 @@
 - [Gitxiv](http://www.gitxiv.com/)
 - [Firebase](https://console.firebase.google.com/?pli=1)
 - [Massdrop](https://www.massdrop.com/my-communities)
-- [Etsy](https://www.etsy.com/?ref=lgo)
+- [Etsy](https://www.etsy.com/?ref=lgo) - Online Shopping Platform
 - [Tutorials point](https://www.tutorialspoint.com/index.htm)
 - [Couchsurfing](https://www.couchsurfing.com)
 - [Pinterest](https://nl.pinterest.com/)
@@ -55,10 +55,10 @@
 - [Godoc](https://godoc.org/)
 - [Hacker news new](https://news.ycombinator.com/newest)
 - [Hacker news](https://hckrnews.com/)
-- [Daybook](https://www.daybook.co/)
+- [Daybook](https://www.daybook.co/) - Online Notebook
 - [Arxiv](https://arxiv.org/)
 - [Google trends](https://trends.google.com/trends/)
-- [Azquotes](http://www.azquotes.com/)
+- [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
 - [Google docs](https://docs.google.com/document/u/0/) - Online collaboration for all your office documents
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling
 - [Booking](https://www.booking.com/)
@@ -67,7 +67,7 @@
 - [Heroku apps](https://dashboard.heroku.com/apps)
 - [Stack real time](https://stackexchange.com/questions?tab=realtime)
 - [Google dashboard](https://myaccount.google.com/dashboard)
-- [Pocket](https://getpocket.com/a/queue/list/) - Save links for later
+- [Pocket](https://getpocket.com/a/queue/list/) - Save internet links for later
 - [Google slides](https://docs.google.com/presentation/u/0/)
 - [Bold.io](https://bold.io/)
 - [Pinboard recent](https://pinboard.in/recent/)
@@ -76,7 +76,7 @@
 - [Learn anything](https://learn-anything.xyz)
 - [Npm](https://www.npmjs.com/)
 - [Leetcode](https://leetcode.com)
-- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Mining
+- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis
 - [Quanta magazine](https://www.quantamagazine.org/)
 - [Barnacles](https://barnacl.es/)
 - [N-gate](http://n-gate.com/)
@@ -112,7 +112,6 @@
 - [Codementor](https://www.codementor.io/)
 - [Angellist](https://angel.co)
 - [Silicon valley dictionary](http://svdictionary.com/)
-- [Music player for reddit](https://reddit.musicplayer.io/)
 - [Gnoosic](http://www.gnoosic.com/)
 - [Unsplash](https://unsplash.com/)
 - [Twitch](https://www.twitch.tv/) - Free online streaming platform
@@ -125,7 +124,6 @@
 - [Bubblehunt](https://bubblehunt.com/)
 - [Hammerspoon](http://www.hammerspoon.org)
 - [Readspike](https://readspike.com/)
-- [Pinboard popular](https://pinboard.in/popular/)
 - [Lobsters](https://lobste.rs/)
 - [21.co](https://21.co/)
 - [Itch.io](https://itch.io/)
@@ -134,8 +132,8 @@
 - [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor
 
 ## Learning
-- [Courseroot](https://courseroot.com/) - Search best online courses.
 - [EdX](https://www.edx.org/)
+- [Courseroot](https://courseroot.com/) - Search best online courses.
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/user/nikitavoloboev/)
 - [TED](https://www.ted.com/) - Free Expert Academic Talks
@@ -180,7 +178,6 @@
 - [Dribble](https://dribbble.com/shots)
 - [Slashdot](https://slashdot.org/)
 - [PH today](http://ph.needles.me/)
-- [No excuse](http://ph.needles.me/)
 - [Favourite and forget](http://usefulinterweb.com/)
 - [Stack overflow](https://stackoverflow.com/) - Programming Help Forum
 - [Freecodecamp](https://www.freecodecamp.com/)
@@ -240,10 +237,10 @@
 - [Rust internals](https://internals.rust-lang.org/)
 
 ## Life
-- [Drive](https://drive.google.com/drive/my-drive)
-- [Toggl](https://toggl.com/)
+- [Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files
+- [Toggl](https://toggl.com/) - Budgeting and Timeline Manager for projects
 - [Apple id](https://appleid.apple.com/)
-- [Dropbox](https://www.dropbox.com/home)
+- [Dropbox](https://www.dropbox.com/home) - Cloud Storage
 
 ## Websites
 - [Golang weekly](https://golangweekly.com)
@@ -290,6 +287,7 @@
 - [Soft murmur](http://asoftmurmur.com/)
 - [Soundcloud](https://soundcloud.com/stream) - Music streaming
 - [Bandcamp](https://bandcamp.com/)
+- [Music player for reddit](https://reddit.musicplayer.io/)
 
 ## Tools
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
@@ -345,7 +343,7 @@
 - [Realm](https://realm.io/)
 - [Leetcode discuss](https://discuss.leetcode.com/category/5/interview-questions)
 - [Codility](https://codility.com/programmers/)
-- [Mozilla dev](https://developer.mozilla.org/) - 
+- [Mozilla dev](https://developer.mozilla.org/)
 - [Go FAQ](https://golang.org/doc/faq#nil_error)
 - [Go compiler explorer](https://go.godbolt.org/)
 
