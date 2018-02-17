@@ -197,6 +197,7 @@
 
 ## Cryptocurrencies
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
+- [Binance](https://www.binance.com/) - Cryptocurrency exchange.
 
 ## Profiles
 - [Gwern](https://www.gwern.net/)
