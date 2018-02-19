@@ -1,4 +1,4 @@
-# Interesting Websites [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+# Interesting Websites [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists)
 *Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
 
 ## General
@@ -7,7 +7,7 @@
 - [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
 - [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
 - [GitHub profile visualiser](https://github-profile-summary.com/search)
-- [Tumblr](https://www.tumblr.com/login?redirect_to=%2Fdashboard) - Blogging Website.
+- [Tumblr](https://www.tumblr.com) - Blogging Website.
 - [Gitbook](https://www.gitbook.com/)
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
 - [Nutrition facts](https://nutritionfacts.org/)
