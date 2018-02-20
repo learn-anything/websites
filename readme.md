@@ -128,6 +128,38 @@
 - [Hacker news ranking](http://hnrankings.info/search/)
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
+- [Golang weekly](https://golangweekly.com)
+- [Stack share](https://stackshare.io)
+- [Startup tracker](https://startuptracker.io/home)
+- [Letterboxd](https://letterboxd.com)
+- [Works for me](https://works-for-me.github.io/)
+- [Nofile 2](https://nofile.io/)
+- [Golang news](https://golangnews.com/)
+- [Steemit](https://steemit.com/@nikivi/feed)
+- [Desmos](https://www.desmos.com) - Online Graphing Utility.
+- [We love golang](https://www.welovegolang.com/)
+- [Digital ocean](https://www.digitalocean.com/)
+- [Codewars](https://www.codewars.com/)
+- [Codingame](https://www.codingame.com/home)
+- [Twitter](https://twitter.com)
+- [Reddit grid](https://redditgrid.com/)
+- [Vimeo](https://vimeo.com/)
+- [Jumpshare](https://jumpshare.com/)
+- [Quizlet](https://quizlet.com/latest)
+- [Dribble](https://dribbble.com/shots)
+- [Slashdot](https://slashdot.org/)
+- [PH today](http://ph.needles.me/)
+- [Favourite and forget](http://usefulinterweb.com/)
+- [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
+- [Freecodecamp](https://www.freecodecamp.com/)
+- [Product hunt](https://www.producthunt.com/)
+- [Medium](https://medium.com/)
+- [Devpost](https://devpost.com/)
+- [Zen habits](https://zenhabits.net/archives/)
+- [Eventbrite](https://www.eventbrite.com/)
+- [Hackerrank](https://www.hackerrank.com/)
+- [Interviewbit](https://www.interviewbit.com/)
+- [YouTube](https://www.youtube.com/) - Free Online Video Sharing.
 
 ## Learning
 - [EdX](https://www.edx.org/)
@@ -149,22 +181,6 @@
 - [Rutracker](http://rutracker.org/forum/index.php)
 - [Habrahabr](https://habrahabr.ru/top/)
 
-## Apps
-- [Wallcat](https://beta.wall.cat/) - New wallpaper everyday for Windows and macOS.
-- [Ulysses](https://ulyssesapp.com/) - Writing app for iOS.
-- [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard customizer for macOS.
-- [Alfred](https://www.alfredapp.com/) - Use hotkeys, keywards, and other tools in macOS.
-- [Jumpshare](https://jumpshare.com/)
-- [2Do](https://www.2doapp.com/) - Quickly add your notes and To Dos in a Google Keep like way in macOS and iOS.
-- [Mindnode](https://mindnode.com/) - Create mind maps on iOS and macOS.
-- [Pixave](http://www.littlehj.com/) - Image organizer for macOS.
-- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Hotkeys for macOS.
-- [Telegram](https://telegram.org/) - Secure Messaging App.
-- [Dash](https://kapeli.com/dash)
-- [Bartender](https://www.macbartender.com/) - Organize your menu bar apps in macOS.
-- [Typinator](http://www.ergonis.com/products/typinator/) - Keywords (like Autocomplete on steroids) for macOS.
-- [Ship](https://www.realartists.com)
-
 ## Images
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
 
@@ -173,23 +189,6 @@
 
 ## Wiki
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
-
-## Top
-- [Quizlet](https://quizlet.com/latest)
-- [Dribble](https://dribbble.com/shots)
-- [Slashdot](https://slashdot.org/)
-- [PH today](http://ph.needles.me/)
-- [Favourite and forget](http://usefulinterweb.com/)
-- [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
-- [Freecodecamp](https://www.freecodecamp.com/)
-- [Product hunt](https://www.producthunt.com/)
-- [Medium](https://medium.com/)
-- [Devpost](https://devpost.com/)
-- [Zen habits](https://zenhabits.net/archives/)
-- [Eventbrite](https://www.eventbrite.com/)
-- [Hackerrank](https://www.hackerrank.com/)
-- [Interviewbit](https://www.interviewbit.com/)
-- [YouTube](https://www.youtube.com/) - Free Online Video Sharing.
 
 ## Jobs
 - [Graduateland](https://graduateland.com)
@@ -242,24 +241,6 @@
 - [Toggl](https://toggl.com/) - Budgeting and Timeline Manager for projects.
 - [Apple id](https://appleid.apple.com/)
 - [Dropbox](https://www.dropbox.com/home) - Cloud Storage.
-
-## Websites
-- [Golang weekly](https://golangweekly.com)
-- [Stack share](https://stackshare.io)
-- [Startup tracker](https://startuptracker.io/home)
-- [Letterboxd](https://letterboxd.com)
-- [Works for me](https://works-for-me.github.io/)
-- [Nofile 2](https://nofile.io/)
-- [Golang news](https://golangnews.com/)
-- [Steemit](https://steemit.com/@nikivi/feed)
-- [Desmos](https://www.desmos.com) - Online Graphing Utility.
-- [We love golang](https://www.welovegolang.com/)
-- [Digital ocean](https://www.digitalocean.com/)
-- [Codewars](https://www.codewars.com/)
-- [Codingame](https://www.codingame.com/home)
-- [Twitter](https://twitter.com)
-- [Reddit grid](https://redditgrid.com/)
-- [Vimeo](https://vimeo.com/)
 
 ## Social
 - [Meetup](http://www.meetup.com/)
