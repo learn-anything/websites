@@ -1,5 +1,5 @@
-# Interesting Websites [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists)
-*Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
+# Interesting Websites [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+*Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## General
 - [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
@@ -7,6 +7,7 @@
 - [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
 - [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
 - [GitHub profile visualiser](https://github-profile-summary.com/search)
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com)
 - [Tumblr](https://www.tumblr.com) - Blogging Website.
 - [Gitbook](https://www.gitbook.com/)
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
@@ -174,6 +175,7 @@
 - [Open yale courses](http://oyc.yale.edu/)
 - [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
 - [Physics Travel Guide](https://physicstravelguide.com)
+- [MDN](https://developer.mozilla.org/en-US/)
 
 ## Russian
 - [Postnauka](https://postnauka.ru/)
@@ -199,6 +201,10 @@
 
 ## Profiles
 - [Gwern](https://www.gwern.net/)
+
+## Startups
+- [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
+- [Failory](https://failory.com/) - Learn from failed startups.
 
 ## Design
 - [UI movement](https://uimovement.com)
@@ -325,7 +331,6 @@
 - [Realm](https://realm.io/)
 - [Leetcode discuss](https://discuss.leetcode.com/category/5/interview-questions)
 - [Codility](https://codility.com/programmers/)
-- [Mozilla dev](https://developer.mozilla.org/)
 - [Go FAQ](https://golang.org/doc/faq#nil_error)
 - [Go compiler explorer](https://go.godbolt.org/)
 
@@ -345,10 +350,10 @@
 - [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines).
+See [contribution guidelines](contributing.md#contribution-guidelines).
 
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
