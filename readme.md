@@ -16,7 +16,6 @@
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 - [How stuff works](http://www.howstuffworks.com/)
 - [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
-- [Overcast](https://overcast.fm/podcasts) - Podcast player for iPhone, iPad, and Apple Watch.
 - [Uses This](https://usesthis.com/) - Collection of Interviews.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
 - [Medium drafts](https://medium.com/me/stories/drafts)
@@ -91,8 +90,6 @@
 - [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
 - [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage) - Read about "Tropes" in popular usage.
 - [Letters of note](http://www.lettersofnote.com/) - Attempts to gather and sort fascinating letters, postcards, telegrams, faxes, and memos.
-- [Packal](http://www.packal.org/) - Bundles for [Alfred](https://www.alfredapp.com/).
-- [The sweet setup](http://thesweetsetup.com/) - Recommendations for the best apps for iPhone, iPad, and Mac.
 - [Sparkman](http://sparkman.strikingly.com/)
 - [Exercism](http://exercism.io/) - Online execution of programming problems.
 - [Project euler](https://projecteuler.net/archives)
@@ -121,7 +118,6 @@
 - [HN favourites](http://www.hnfavorites.com/#)
 - [Egghead](https://egghead.io/) -  Group of working web development professionals and open source contributors that provide you with video courses.
 - [Bubblehunt](https://bubblehunt.com/)
-- [Hammerspoon](http://www.hammerspoon.org) - Automate macOS using Lua.
 - [Readspike](https://readspike.com/)
 - [Lobsters](https://lobste.rs/) - Technology-focused community centered around link aggregation and discussion.
 - [21.co](https://21.co/)
@@ -177,6 +173,13 @@
 - [Physics Travel Guide](https://physicstravelguide.com)
 - [MDN](https://developer.mozilla.org/en-US/)
 
+## Apple Device Tools
+- [Macscripter](http://macscripter.net/index.php)
+- [The sweet setup](http://thesweetsetup.com/) - Recommendations for the best apps for iPhone, iPad, and Mac.
+- [Hammerspoon](http://www.hammerspoon.org) - Automate macOS using Lua.
+- [Overcast](https://overcast.fm/podcasts) - Podcast player for iPhone, iPad, and Apple Watch.
+- [Packal](http://www.packal.org/) - Bundles for [Alfred](https://www.alfredapp.com/).
+
 ## Russian
 - [Postnauka](https://postnauka.ru/)
 - [Meduza](https://meduza.io/)
@@ -225,7 +228,7 @@
 - [Keyboard Maestro](https://forum.keyboardmaestro.com/latest)
 - [Longecity](http://www.longecity.org/forum/)
 - [Affinity](https://affinity.serif.com/forum/)
-- [Alfred](https://www.alfredforum.com/)
+- [Alfred](https://www.alfredforum.com/) - Forum for sharing [Alfred](https://www.alfredapp.com/) workflows.
 - [Hack forums](https://hackforums.net/index.php)
 - [Nixers](https://nixers.net/)
 - [Hazel](https://www.noodlesoft.com/forums/)
@@ -236,7 +239,6 @@
 - [Sublime](https://forum.sublimetext.com/)
 - [Discourse](https://try.discourse.org/)
 - [Shroomery](https://www.shroomery.org/)
-- [Macscripter](http://macscripter.net/index.php)
 - [Hugo](https://discourse.gohugo.io/)
 - [Syncthing](https://forum.syncthing.net/)
 - [Binary age](https://discuss.binaryage.com/)
