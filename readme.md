@@ -49,15 +49,15 @@
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
 - [Proton mail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 - [Github info](http://githut.info/) - Statistics about GitHub.
-- [Github](https://github.com/)
-- [Github trending](https://github.com/trending)
-- [Stack exchange hot](https://stackexchange.com/?pagesize=50)
+- [Github](https://github.com/) - Coding through online collaboration.
+- [Github trending](https://github.com/trending) - Top trending GitHub repos.
+- [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
 - [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
 - [Hacker news](https://hckrnews.com/)
 - [Daybook](https://www.daybook.co/) - Online Notebook.
-- [Arxiv](https://arxiv.org/)
-- [Google trends](https://trends.google.com/trends/)
+- [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
+- [Google trends](https://trends.google.com/trends/) - Discover what people are searching about.
 - [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
 - [Google docs](https://docs.google.com/document/u/0/) - Online collaboration for all your office documents.
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling.
