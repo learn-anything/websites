@@ -63,7 +63,7 @@
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling.
 - [Booking](https://www.booking.com/)
 - [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
-- [Quora](https://www.quora.com/)
+- [Quora](https://www.quora.com/) - Q&A community
 - [Heroku apps](https://dashboard.heroku.com/apps)
 - [Stack real time](https://stackexchange.com/questions?tab=realtime)
 - [Google dashboard](https://myaccount.google.com/dashboard)
@@ -73,30 +73,30 @@
 - [Pinboard recent](https://pinboard.in/recent/)
 - [Google projects](https://console.cloud.google.com/start)
 - [Code combat](https://codecombat.com/) - Programming Game designed for Students.
-- [Learn anything](https://learn-anything.xyz)
-- [Npm](https://www.npmjs.com/)
-- [Leetcode](https://leetcode.com)
+- [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
+- [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
+- [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis.
 - [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
 - [Barnacles](https://barnacl.es/)
-- [N-gate](http://n-gate.com/)
+- [N-gate](http://n-gate.com/) 
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
-- [Hashnode](https://hashnode.com/)
+- [Hashnode](https://hashnode.com/) - Q&A community for coders.
 - [Open culture](http://www.openculture.com/)
 - [Medium - top](https://medium.com/browse/top)
-- [Documentary addict](https://documentaryaddict.com/)
+- [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
 - [Thought maybe](https://thoughtmaybe.com/?ref=producthunt) - Online library of films.
 - [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
 - [Topl](http://www.topl.io/) -  Community-driven curation for lists.
-- [Zeef](https://zeef.com/)
-- [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage)
-- [Letters of note](http://www.lettersofnote.com/)
+- [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
+- [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage) - Read about "Tropes" in popular usage.
+- [Letters of note](http://www.lettersofnote.com/) - Attempts to gather and sort fascinating letters, postcards, telegrams, faxes, and memos.
 - [Packal](http://www.packal.org/) - Bundles for [Alfred](https://www.alfredapp.com/).
-- [The sweet setup](http://thesweetsetup.com/)
+- [The sweet setup](http://thesweetsetup.com/) - Recommendations for the best apps for iPhone, iPad, and Mac.
 - [Sparkman](http://sparkman.strikingly.com/)
-- [Exercism](http://exercism.io/)
+- [Exercism](http://exercism.io/) - Online execution of programming problems.
 - [Project euler](https://projecteuler.net/archives)
-- [Vim awesome](http://vimawesome.com/)
+- [Vim awesome](http://vimawesome.com/) - Find vim plugins.
 - [W3schools](https://www.w3schools.com/) - The standard for Web Development.
 - [IFTT](https://ifttt.com/discover) - Find Applets.
 - [Namecheap](https://www.namecheap.com/) - Cheap Website Domains.
@@ -105,25 +105,25 @@
 - [Grouvee](https://www.grouvee.com/) - Track your video game collection.
 - [Goodreads](https://www.goodreads.com/) - Track which books you've read.
 - [World Meters](http://www.worldometers.info/) - World Statistics updated in real time.
-- [Coderpad](https://coderpad.io/)
+- [Coderpad](https://coderpad.io/) - Similar to Google Docs, but can execute code.
 - [Skytorrents](https://www.skytorrents.in/) - Torrent Tracker.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
 - [Sci-hub](https://sci-hub.cc/)
 - [Codementor](https://www.codementor.io/)
 - [Angellist](https://angel.co)
-- [Silicon valley dictionary](http://svdictionary.com/)
+- [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
 - [Gnoosic](http://www.gnoosic.com/) - Website the recommends new bands based on ones you like.
 - [Unsplash](https://unsplash.com/) - A large collection of free photos.
 - [Twitch](https://www.twitch.tv/) - Free online streaming platform.
 - [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
-- [Numbeo](https://www.numbeo.com/common/)
-- [Codepen](https://codepen.io/)
+- [Numbeo](https://www.numbeo.com/common/) - Collection of Web pages containing numerical and other itemizable data about cities and countries.
+- [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
 - [HN favourites](http://www.hnfavorites.com/#)
-- [Egghead](https://egghead.io/)
+- [Egghead](https://egghead.io/) -  Group of working web development professionals and open source contributors that provide you with video courses.
 - [Bubblehunt](https://bubblehunt.com/)
 - [Hammerspoon](http://www.hammerspoon.org) - Automate macOS using Lua.
 - [Readspike](https://readspike.com/)
-- [Lobsters](https://lobste.rs/)
+- [Lobsters](https://lobste.rs/) - Technology-focused community centered around link aggregation and discussion.
 - [21.co](https://21.co/)
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
 - [Hacker news ranking](http://hnrankings.info/search/)
@@ -337,7 +337,7 @@
 
 ## Fun
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
-- [First PR](http://firstpr.me) - See the first GitHub PR you made.
+- [First PR](http://firstpr.me) - See the first GitHub Pull Request you made.
 
 ## Finance
 - [Finviz](http://finviz.com/)
