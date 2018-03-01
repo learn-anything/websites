@@ -6,58 +6,58 @@
 - [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
 - [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
 - [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
-- [GitHub profile visualiser](https://github-profile-summary.com/search)
-- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com)
+- [GitHub profile visualiser](https://github-profile-summary.com/search) - Tool for visualizing GitHub profiles.
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com) - Find the shortest navigation paths between any two Wikipedia pages.
 - [Tumblr](https://www.tumblr.com) - Blogging Website.
-- [Gitbook](https://www.gitbook.com/)
+- [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
-- [Nutrition facts](https://nutritionfacts.org/)
-- [Brain pickings](https://www.brainpickings.org/)
+- [Nutrition facts](https://nutritionfacts.org/) - Watch free videos on more than 2,000 health and nutrition topics with new videos and articles uploaded every day.
+- [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 - [How stuff works](http://www.howstuffworks.com/)
 - [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
-- [Overcast](https://overcast.fm/podcasts)
+- [Overcast](https://overcast.fm/podcasts) - Podcast player for iPhone, iPad, and Apple Watch.
 - [Uses This](https://usesthis.com/) - Collection of Interviews.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
 - [Medium drafts](https://medium.com/me/stories/drafts)
-- [Fast company](https://www.fastcompany.com/)
+- [Fast company](https://www.fastcompany.com/) - Online Magazine.
 - [Artsy](https://www.artsy.net/)
 - [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
 - [Brilliant](https://brilliant.org/) - Online math brain puzzles.
-- [Gitxiv](http://www.gitxiv.com/)
+- [Gitxiv](http://www.gitxiv.com/) - Online space to share collaborative open computer science projects.
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
-- [Massdrop](https://www.massdrop.com/my-communities)
+- [Massdrop](https://www.massdrop.com/my-communities) - Community-Driven Commerce.
 - [Etsy](https://www.etsy.com/?ref=lgo) - Online Shopping Platform.
 - [Tutorials point](https://www.tutorialspoint.com/index.htm) - Online Tutorials at your own pace.
-- [Couchsurfing](https://www.couchsurfing.com)
-- [Pinterest](https://nl.pinterest.com/)
+- [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
+- [Pinterest](https://nl.pinterest.com/) - Pin online ideas to a central board for later.  Navigate to other people's pins as well.
 - [Rocumentaries](https://rocumentaries.com/) - Curated links to documentaries.
 - [Coworking coffee](https://www.coworking.coffee/) - Find workplaces with coffee and wifi, curated by the community.
 - [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
-- [Arbital](https://arbital.com/)
+- [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
 - [Interview cake](https://www.interviewcake.com/) - Practice for programming interviews.
 - [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 - [Telegraph](http://telegra.ph/)
-- [Docker hub](https://hub.docker.com/)
-- [Checkio](https://py.checkio.org/)
+- [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
+- [Checkio](https://py.checkio.org/) - Games for coding.
 - [Git logs](http://www.gitlogs.com/) - Discover trending repos on GitHub.
-- [CrowdAI](https://www.crowdai.org/)
+- [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
-- [Patreon](https://www.patreon.com/home)
-- [Skyscanner](https://www.skyscanner.net/)
+- [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
+- [Skyscanner](https://www.skyscanner.net/) - Global travel search site.
 - [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
 - [Proton mail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 - [Github info](http://githut.info/) - Statistics about GitHub.
-- [Github](https://github.com/)
-- [Github trending](https://github.com/trending)
-- [Stack exchange hot](https://stackexchange.com/?pagesize=50)
+- [Github](https://github.com/) - Coding through online collaboration.
+- [Github trending](https://github.com/trending) - Top trending GitHub repos.
+- [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
 - [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
 - [Hacker news](https://hckrnews.com/)
 - [Daybook](https://www.daybook.co/) - Online Notebook.
-- [Arxiv](https://arxiv.org/)
-- [Google trends](https://trends.google.com/trends/)
+- [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
+- [Google trends](https://trends.google.com/trends/) - Discover what people are searching about.
 - [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
 - [Google docs](https://docs.google.com/document/u/0/) - Online collaboration for all your office documents.
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling.
@@ -86,7 +86,7 @@
 - [Medium - top](https://medium.com/browse/top)
 - [Documentary addict](https://documentaryaddict.com/)
 - [Thought maybe](https://thoughtmaybe.com/?ref=producthunt) - Online library of films.
-- [Deskhunt](http://deskhunt.com/)
+- [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
 - [Topl](http://www.topl.io/) -  Community-driven curation for lists.
 - [Zeef](https://zeef.com/)
 - [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage)
