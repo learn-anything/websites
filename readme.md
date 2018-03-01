@@ -1,5 +1,5 @@
-# Interesting Websites [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#curated-lists-) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-*Please read the [contribution guidelines](contributing.md/#contribution-guidelines) before contributing.*
+# Interesting Websites [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+*Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## General
 - [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
@@ -7,7 +7,8 @@
 - [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
 - [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
 - [GitHub profile visualiser](https://github-profile-summary.com/search)
-- [Tumblr](https://www.tumblr.com/login?redirect_to=%2Fdashboard) - Blogging Website.
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com)
+- [Tumblr](https://www.tumblr.com) - Blogging Website.
 - [Gitbook](https://www.gitbook.com/)
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
 - [Nutrition facts](https://nutritionfacts.org/)
@@ -128,53 +129,23 @@
 - [Hacker news ranking](http://hnrankings.info/search/)
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
-
-## Learning
-- [EdX](https://www.edx.org/)
-- [Courseroot](https://courseroot.com/) - Search best online courses.
-- [Udacity](https://www.udacity.com/)
-- [Udemy](https://www.udemy.com/user/nikitavoloboev/)
-- [TED](https://www.ted.com/) - Free Expert Academic Talks.
-- [Metacademy](https://www.metacademy.org/)
-- [MIT courses](https://ocw.mit.edu/courses/)
-- [Coursera](https://www.coursera.org/)
-- [Explained visually](http://setosa.io/ev/) - Website dedicated to Explorable Explanations.
-- [Open yale courses](http://oyc.yale.edu/)
-- [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
-- [Physics Travel Guide](https://physicstravelguide.com)
-
-## Russian
-- [Postnauka](https://postnauka.ru/)
-- [Meduza](https://meduza.io/)
-- [Rutracker](http://rutracker.org/forum/index.php)
-- [Habrahabr](https://habrahabr.ru/top/)
-
-## Apps
-- [Wallcat](https://beta.wall.cat/) - New wallpaper everyday for Windows and macOS.
-- [Ulysses](https://ulyssesapp.com/) - Writing app for iOS.
-- [Karabiner](https://pqrs.org/osx/karabiner/) - Keyboard customizer for macOS.
-- [Alfred](https://www.alfredapp.com/) - Use hotkeys, keywards, and other tools in macOS.
+- [Golang weekly](https://golangweekly.com)
+- [Stack share](https://stackshare.io)
+- [Startup tracker](https://startuptracker.io/home)
+- [Letterboxd](https://letterboxd.com)
+- [Works for me](https://works-for-me.github.io/)
+- [Nofile 2](https://nofile.io/)
+- [Golang news](https://golangnews.com/)
+- [Steemit](https://steemit.com/@nikivi/feed)
+- [Desmos](https://www.desmos.com) - Online Graphing Utility.
+- [We love golang](https://www.welovegolang.com/)
+- [Digital ocean](https://www.digitalocean.com/)
+- [Codewars](https://www.codewars.com/)
+- [Codingame](https://www.codingame.com/home)
+- [Twitter](https://twitter.com)
+- [Reddit grid](https://redditgrid.com/)
+- [Vimeo](https://vimeo.com/)
 - [Jumpshare](https://jumpshare.com/)
-- [2Do](https://www.2doapp.com/) - Quickly add your notes and To Dos in a Google Keep like way in macOS and iOS.
-- [Mindnode](https://mindnode.com/) - Create mind maps on iOS and macOS.
-- [Pixave](http://www.littlehj.com/) - Image organizer for macOS.
-- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Hotkeys for macOS.
-- [Telegram](https://telegram.org/) - Secure Messaging App.
-- [Dash](https://kapeli.com/dash)
-- [Bartender](https://www.macbartender.com/) - Organize your menu bar apps in macOS.
-- [Typinator](http://www.ergonis.com/products/typinator/) - Keywords (like Autocomplete on steroids) for macOS.
-- [Ship](https://www.realartists.com)
-
-## Images
-- [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
-
-## Machine learning
-- [DataQuest](https://www.dataquest.io/)
-
-## Wiki
-- [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
-
-## Top
 - [Quizlet](https://quizlet.com/latest)
 - [Dribble](https://dribbble.com/shots)
 - [Slashdot](https://slashdot.org/)
@@ -191,15 +162,50 @@
 - [Interviewbit](https://www.interviewbit.com/)
 - [YouTube](https://www.youtube.com/) - Free Online Video Sharing.
 
+## Learning
+- [EdX](https://www.edx.org/)
+- [Courseroot](https://courseroot.com/) - Search best online courses.
+- [Udacity](https://www.udacity.com/)
+- [Udemy](https://www.udemy.com/user/nikitavoloboev/)
+- [TED](https://www.ted.com/) - Free Expert Academic Talks.
+- [Metacademy](https://www.metacademy.org/)
+- [MIT courses](https://ocw.mit.edu/courses/)
+- [Coursera](https://www.coursera.org/)
+- [Explained visually](http://setosa.io/ev/) - Website dedicated to Explorable Explanations.
+- [Open yale courses](http://oyc.yale.edu/)
+- [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
+- [Physics Travel Guide](https://physicstravelguide.com)
+- [MDN](https://developer.mozilla.org/en-US/)
+
+## Russian
+- [Postnauka](https://postnauka.ru/)
+- [Meduza](https://meduza.io/)
+- [Rutracker](http://rutracker.org/forum/index.php)
+- [Habrahabr](https://habrahabr.ru/top/)
+
+## Images
+- [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
+
+## Machine learning
+- [DataQuest](https://www.dataquest.io/)
+
+## Wiki
+- [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
+
 ## Jobs
 - [Graduateland](https://graduateland.com)
 
 ## Cryptocurrencies
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
 - [Binance](https://www.binance.com/) - Cryptocurrency exchange.
+- [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
 
 ## Profiles
 - [Gwern](https://www.gwern.net/)
+
+## Startups
+- [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
+- [Failory](https://failory.com/) - Learn from failed startups.
 
 ## Design
 - [UI movement](https://uimovement.com)
@@ -242,24 +248,6 @@
 - [Toggl](https://toggl.com/) - Budgeting and Timeline Manager for projects.
 - [Apple id](https://appleid.apple.com/)
 - [Dropbox](https://www.dropbox.com/home) - Cloud Storage.
-
-## Websites
-- [Golang weekly](https://golangweekly.com)
-- [Stack share](https://stackshare.io)
-- [Startup tracker](https://startuptracker.io/home)
-- [Letterboxd](https://letterboxd.com)
-- [Works for me](https://works-for-me.github.io/)
-- [Nofile 2](https://nofile.io/)
-- [Golang news](https://golangnews.com/)
-- [Steemit](https://steemit.com/@nikivi/feed)
-- [Desmos](https://www.desmos.com) - Online Graphing Utility.
-- [We love golang](https://www.welovegolang.com/)
-- [Digital ocean](https://www.digitalocean.com/)
-- [Codewars](https://www.codewars.com/)
-- [Codingame](https://www.codingame.com/home)
-- [Twitter](https://twitter.com)
-- [Reddit grid](https://redditgrid.com/)
-- [Vimeo](https://vimeo.com/)
 
 ## Social
 - [Meetup](http://www.meetup.com/)
@@ -344,7 +332,6 @@
 - [Realm](https://realm.io/)
 - [Leetcode discuss](https://discuss.leetcode.com/category/5/interview-questions)
 - [Codility](https://codility.com/programmers/)
-- [Mozilla dev](https://developer.mozilla.org/)
 - [Go FAQ](https://golang.org/doc/faq#nil_error)
 - [Go compiler explorer](https://go.godbolt.org/)
 
@@ -364,10 +351,10 @@
 - [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines).
+See [contribution guidelines](contributing.md#contribution-guidelines).
 
 ## More lists 📝
-For more lists like this, see [here](https://github.com/learn-anything/curated-lists#curated-lists-).
+For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
