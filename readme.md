@@ -256,7 +256,7 @@
 - [Whatsapp](https://web.whatsapp.com/)
 - [Google plus](https://plus.google.com/)
 - [Facebook](https://www.facebook.com/)
-- [All reddit](https://www.reddit.com/r/all/) - All trending posts from all Reddit Subreddits.
+
 
 ## Search
 - [Slant](https://www.slant.co/)
