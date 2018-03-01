@@ -187,9 +187,6 @@
 - [Github trending](https://github.com/trending) - Top trending GitHub repos.
 - [Works for me](https://works-for-me.github.io/)
 
-## Images
-- [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
-
 ## Machine learning
 - [DataQuest](https://www.dataquest.io/)
 
@@ -221,6 +218,7 @@
 - [Flickr - explore](https://www.flickr.com/explore)
 - [Imgur](https://imgur.com/)
 - [Instagram](https://www.instagram.com/)
+- [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
 
 ## Forums
 - [Swift](https://forums.swift.org/latest)
