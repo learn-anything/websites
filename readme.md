@@ -2,68 +2,54 @@
 *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## General
-- [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
 - [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
-- [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
-- [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
-- [GitHub profile visualiser](https://github-profile-summary.com/search)
-- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com)
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com) - Find the shortest navigation paths between any two Wikipedia pages.
 - [Tumblr](https://www.tumblr.com) - Blogging Website.
-- [Gitbook](https://www.gitbook.com/)
+- [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
-- [Nutrition facts](https://nutritionfacts.org/)
-- [Brain pickings](https://www.brainpickings.org/)
+- [Nutrition facts](https://nutritionfacts.org/) - Watch free videos on more than 2,000 health and nutrition topics with new videos and articles uploaded every day.
+- [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 - [How stuff works](http://www.howstuffworks.com/)
 - [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
-- [Overcast](https://overcast.fm/podcasts)
 - [Uses This](https://usesthis.com/) - Collection of Interviews.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
 - [Medium drafts](https://medium.com/me/stories/drafts)
-- [Fast company](https://www.fastcompany.com/)
+- [Fast company](https://www.fastcompany.com/) - Online Magazine.
 - [Artsy](https://www.artsy.net/)
 - [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
 - [Brilliant](https://brilliant.org/) - Online math brain puzzles.
-- [Gitxiv](http://www.gitxiv.com/)
+- [Gitxiv](http://www.gitxiv.com/) - Online space to share collaborative open computer science projects.
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
-- [Massdrop](https://www.massdrop.com/my-communities)
+- [Massdrop](https://www.massdrop.com/my-communities) - Community-Driven Commerce.
 - [Etsy](https://www.etsy.com/?ref=lgo) - Online Shopping Platform.
 - [Tutorials point](https://www.tutorialspoint.com/index.htm) - Online Tutorials at your own pace.
-- [Couchsurfing](https://www.couchsurfing.com)
-- [Pinterest](https://nl.pinterest.com/)
+- [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
+- [Pinterest](https://nl.pinterest.com/) - Pin online ideas to a central board for later.  Navigate to other people's pins as well.
 - [Rocumentaries](https://rocumentaries.com/) - Curated links to documentaries.
 - [Coworking coffee](https://www.coworking.coffee/) - Find workplaces with coffee and wifi, curated by the community.
-- [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
-- [Arbital](https://arbital.com/)
+- [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
 - [Interview cake](https://www.interviewcake.com/) - Practice for programming interviews.
 - [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 - [Telegraph](http://telegra.ph/)
-- [Docker hub](https://hub.docker.com/)
-- [Checkio](https://py.checkio.org/)
-- [Git logs](http://www.gitlogs.com/) - Discover trending repos on GitHub.
-- [CrowdAI](https://www.crowdai.org/)
+- [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
+- [Checkio](https://py.checkio.org/) - Games for coding.
+- [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
-- [Patreon](https://www.patreon.com/home)
-- [Skyscanner](https://www.skyscanner.net/)
+- [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
+- [Skyscanner](https://www.skyscanner.net/) - Global travel search site.
 - [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
-- [Proton mail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
-- [Github info](http://githut.info/) - Statistics about GitHub.
-- [Github](https://github.com/)
-- [Github trending](https://github.com/trending)
-- [Stack exchange hot](https://stackexchange.com/?pagesize=50)
 - [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
 - [Hacker news](https://hckrnews.com/)
 - [Daybook](https://www.daybook.co/) - Online Notebook.
-- [Arxiv](https://arxiv.org/)
-- [Google trends](https://trends.google.com/trends/)
+- [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
+- [Google trends](https://trends.google.com/trends/) - Discover what people are searching about.
 - [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
 - [Google docs](https://docs.google.com/document/u/0/) - Online collaboration for all your office documents.
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling.
 - [Booking](https://www.booking.com/)
-- [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
-- [Quora](https://www.quora.com/)
 - [Heroku apps](https://dashboard.heroku.com/apps)
 - [Stack real time](https://stackexchange.com/questions?tab=realtime)
 - [Google dashboard](https://myaccount.google.com/dashboard)
@@ -72,31 +58,27 @@
 - [Bold.io](https://bold.io/)
 - [Pinboard recent](https://pinboard.in/recent/)
 - [Google projects](https://console.cloud.google.com/start)
-- [Code combat](https://codecombat.com/) - Programming Game designed for Students.
-- [Learn anything](https://learn-anything.xyz)
-- [Npm](https://www.npmjs.com/)
-- [Leetcode](https://leetcode.com)
+- [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
+- [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
+- [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis.
 - [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
 - [Barnacles](https://barnacl.es/)
-- [N-gate](http://n-gate.com/)
+- [N-gate](http://n-gate.com/) 
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
-- [Hashnode](https://hashnode.com/)
 - [Open culture](http://www.openculture.com/)
 - [Medium - top](https://medium.com/browse/top)
-- [Documentary addict](https://documentaryaddict.com/)
+- [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
 - [Thought maybe](https://thoughtmaybe.com/?ref=producthunt) - Online library of films.
-- [Deskhunt](http://deskhunt.com/)
+- [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
 - [Topl](http://www.topl.io/) -  Community-driven curation for lists.
-- [Zeef](https://zeef.com/)
-- [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage)
-- [Letters of note](http://www.lettersofnote.com/)
-- [Packal](http://www.packal.org/) - Bundles for [Alfred](https://www.alfredapp.com/).
-- [The sweet setup](http://thesweetsetup.com/)
+- [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
+- [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage) - Read about "Tropes" in popular usage.
+- [Letters of note](http://www.lettersofnote.com/) - Attempts to gather and sort fascinating letters, postcards, telegrams, faxes, and memos.
 - [Sparkman](http://sparkman.strikingly.com/)
-- [Exercism](http://exercism.io/)
+- [Exercism](http://exercism.io/) - Online execution of programming problems.
 - [Project euler](https://projecteuler.net/archives)
-- [Vim awesome](http://vimawesome.com/)
+- [Vim awesome](http://vimawesome.com/) - Find vim plugins.
 - [W3schools](https://www.w3schools.com/) - The standard for Web Development.
 - [IFTT](https://ifttt.com/discover) - Find Applets.
 - [Namecheap](https://www.namecheap.com/) - Cheap Website Domains.
@@ -105,25 +87,21 @@
 - [Grouvee](https://www.grouvee.com/) - Track your video game collection.
 - [Goodreads](https://www.goodreads.com/) - Track which books you've read.
 - [World Meters](http://www.worldometers.info/) - World Statistics updated in real time.
-- [Coderpad](https://coderpad.io/)
+- [Coderpad](https://coderpad.io/) - Similar to Google Docs, but can execute code.
 - [Skytorrents](https://www.skytorrents.in/) - Torrent Tracker.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
 - [Sci-hub](https://sci-hub.cc/)
 - [Codementor](https://www.codementor.io/)
 - [Angellist](https://angel.co)
-- [Silicon valley dictionary](http://svdictionary.com/)
-- [Gnoosic](http://www.gnoosic.com/) - Website the recommends new bands based on ones you like.
-- [Unsplash](https://unsplash.com/) - A large collection of free photos.
+- [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
 - [Twitch](https://www.twitch.tv/) - Free online streaming platform.
 - [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
-- [Numbeo](https://www.numbeo.com/common/)
-- [Codepen](https://codepen.io/)
+- [Numbeo](https://www.numbeo.com/common/) - Collection of Web pages containing numerical and other itemizable data about cities and countries.
 - [HN favourites](http://www.hnfavorites.com/#)
-- [Egghead](https://egghead.io/)
+- [Egghead](https://egghead.io/) -  Group of working web development professionals and open source contributors that provide you with video courses.
 - [Bubblehunt](https://bubblehunt.com/)
-- [Hammerspoon](http://www.hammerspoon.org) - Automate macOS using Lua.
 - [Readspike](https://readspike.com/)
-- [Lobsters](https://lobste.rs/)
+- [Lobsters](https://lobste.rs/) - Technology-focused community centered around link aggregation and discussion.
 - [21.co](https://21.co/)
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
 - [Hacker news ranking](http://hnrankings.info/search/)
@@ -133,7 +111,6 @@
 - [Stack share](https://stackshare.io)
 - [Startup tracker](https://startuptracker.io/home)
 - [Letterboxd](https://letterboxd.com)
-- [Works for me](https://works-for-me.github.io/)
 - [Nofile 2](https://nofile.io/)
 - [Golang news](https://golangnews.com/)
 - [Steemit](https://steemit.com/@nikivi/feed)
@@ -142,7 +119,6 @@
 - [Digital ocean](https://www.digitalocean.com/)
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
-- [Twitter](https://twitter.com)
 - [Reddit grid](https://redditgrid.com/)
 - [Vimeo](https://vimeo.com/)
 - [Jumpshare](https://jumpshare.com/)
@@ -177,14 +153,32 @@
 - [Physics Travel Guide](https://physicstravelguide.com)
 - [MDN](https://developer.mozilla.org/en-US/)
 
+## Apple Device Tools
+- [Macscripter](http://macscripter.net/index.php)
+- [The sweet setup](http://thesweetsetup.com/) - Recommendations for the best apps for iPhone, iPad, and Mac.
+- [Hammerspoon](http://www.hammerspoon.org) - Automate macOS using Lua.
+- [Overcast](https://overcast.fm/podcasts) - Podcast player for iPhone, iPad, and Apple Watch.
+- [Packal](http://www.packal.org/) - Bundles for [Alfred](https://www.alfredapp.com/).
+
 ## Russian
 - [Postnauka](https://postnauka.ru/)
 - [Meduza](https://meduza.io/)
 - [Rutracker](http://rutracker.org/forum/index.php)
 - [Habrahabr](https://habrahabr.ru/top/)
 
-## Images
-- [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
+## GitHub Related Tools
+- [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
+- [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
+- [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
+- [GitHub profile visualiser](https://github-profile-summary.com/search) - Tool for visualizing GitHub profiles.
+- [Git logs](http://www.gitlogs.com/) - Discover trending repos on GitHub.
+- [Github releases](http://www.somsubhra.com/github-release-stats/)
+- [Free interactive tutorials](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md)
+- [First PR](http://firstpr.me) - See the first GitHub Pull Request you made.
+- [Github info](http://githut.info/) - Statistics about GitHub.
+- [Github](https://github.com/) - Coding through online collaboration.
+- [Github trending](https://github.com/trending) - Top trending GitHub repos.
+- [Works for me](https://works-for-me.github.io/)
 
 ## Machine learning
 - [DataQuest](https://www.dataquest.io/)
@@ -217,6 +211,9 @@
 - [Flickr - explore](https://www.flickr.com/explore)
 - [Imgur](https://imgur.com/)
 - [Instagram](https://www.instagram.com/)
+- [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
+- [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
+- [Unsplash](https://unsplash.com/) - A large collection of free photos.
 
 ## Forums
 - [Swift](https://forums.swift.org/latest)
@@ -225,7 +222,7 @@
 - [Keyboard Maestro](https://forum.keyboardmaestro.com/latest)
 - [Longecity](http://www.longecity.org/forum/)
 - [Affinity](https://affinity.serif.com/forum/)
-- [Alfred](https://www.alfredforum.com/)
+- [Alfred](https://www.alfredforum.com/) - Forum for sharing [Alfred](https://www.alfredapp.com/) workflows.
 - [Hack forums](https://hackforums.net/index.php)
 - [Nixers](https://nixers.net/)
 - [Hazel](https://www.noodlesoft.com/forums/)
@@ -236,12 +233,14 @@
 - [Sublime](https://forum.sublimetext.com/)
 - [Discourse](https://try.discourse.org/)
 - [Shroomery](https://www.shroomery.org/)
-- [Macscripter](http://macscripter.net/index.php)
 - [Hugo](https://discourse.gohugo.io/)
 - [Syncthing](https://forum.syncthing.net/)
 - [Binary age](https://discuss.binaryage.com/)
 - [Geekhack](https://geekhack.org/index.php)
 - [Rust internals](https://internals.rust-lang.org/)
+- [Quora](https://www.quora.com/) - Q&A community
+- [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
+- [Hashnode](https://hashnode.com/) - Q&A community for coders.
 
 ## Life
 - [Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
@@ -254,7 +253,9 @@
 - [Whatsapp](https://web.whatsapp.com/)
 - [Google plus](https://plus.google.com/)
 - [Facebook](https://www.facebook.com/)
-- [All reddit](https://www.reddit.com/r/all/) - All trending posts from all Reddit Subreddits.
+- [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
+- [Twitter](https://twitter.com)
+- [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
 
 ## Search
 - [Slant](https://www.slant.co/)
@@ -265,7 +266,6 @@
 
 ## Music
 - [Last.fm](https://www.last.fm/home)
-- [Last.fm charts](https://www.last.fm/music)
 - [Discogs](http://discogs.com)
 - [Rainy mood](http://www.rainymood.com/)
 - [Touch pianist](http://touchpianist.com/)
@@ -277,6 +277,7 @@
 - [Soundcloud](https://soundcloud.com/stream) - Music streaming.
 - [Bandcamp](https://bandcamp.com/)
 - [Music player for reddit](https://reddit.musicplayer.io/)
+- [Gnoosic](http://www.gnoosic.com/) - Website the recommends new bands based on ones you like.
 
 ## Tools
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
@@ -314,16 +315,15 @@
 - [Bangs](https://duckduckgo.com/bang?)
 - [Vim cheat sheet](https://vim.rtorr.com/)
 - [Deepl](https://www.deepl.com/translator)
-- [Github releases](http://www.somsubhra.com/github-release-stats/)
 - [Debuggex](https://debuggex.com/)
 - [Rawgit](http://rawgit.com/)
+- [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 
 ## Development
 - [Stackshare tools](https://stackshare.io/trending/tools)
 - [OverAPI](http://overapi.com/)
 - [Glot.io](https://glot.io/)
 - [Advent of code](http://adventofcode.com/)
-- [Free interactive tutorials](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md)
 - [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
 - [Hackr](https://hackr.io/)
 - [Libraries.io](https://libraries.io/)
@@ -337,7 +337,7 @@
 
 ## Fun
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
-- [First PR](http://firstpr.me) - See the first GitHub PR you made.
+- [Code combat](https://codecombat.com/) - Programming Game designed for Students.
 
 ## Finance
 - [Finviz](http://finviz.com/)
