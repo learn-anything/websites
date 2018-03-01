@@ -59,12 +59,12 @@
 - [Pinboard recent](https://pinboard.in/recent/)
 - [Google projects](https://console.cloud.google.com/start)
 - [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
-- [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world�s largest software registry.
+- [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
 - [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis.
 - [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
 - [Barnacles](https://barnacl.es/)
-- [N-gate](http://n-gate.com/) 
+- [N-gate](http://n-gate.com/)
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
 - [Open culture](http://www.openculture.com/)
 - [Medium - top](https://medium.com/browse/top)
@@ -353,7 +353,7 @@
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).
 
-## More lists 📝
+## More lists ðŸ“
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
 ## License
