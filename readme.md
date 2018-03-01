@@ -2,11 +2,7 @@
 *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## General
-- [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
 - [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
-- [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
-- [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
-- [GitHub profile visualiser](https://github-profile-summary.com/search) - Tool for visualizing GitHub profiles.
 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com) - Find the shortest navigation paths between any two Wikipedia pages.
 - [Tumblr](https://www.tumblr.com) - Blogging Website.
 - [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
@@ -39,17 +35,12 @@
 - [Telegraph](http://telegra.ph/)
 - [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
 - [Checkio](https://py.checkio.org/) - Games for coding.
-- [Git logs](http://www.gitlogs.com/) - Discover trending repos on GitHub.
 - [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
 - [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
 - [Skyscanner](https://www.skyscanner.net/) - Global travel search site.
 - [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
-- [Proton mail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
-- [Github info](http://githut.info/) - Statistics about GitHub.
-- [Github](https://github.com/) - Coding through online collaboration.
-- [Github trending](https://github.com/trending) - Top trending GitHub repos.
 - [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
 - [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
@@ -61,8 +52,6 @@
 - [Google docs](https://docs.google.com/document/u/0/) - Online collaboration for all your office documents.
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling.
 - [Booking](https://www.booking.com/)
-- [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
-- [Quora](https://www.quora.com/) - Q&A community
 - [Heroku apps](https://dashboard.heroku.com/apps)
 - [Stack real time](https://stackexchange.com/questions?tab=realtime)
 - [Google dashboard](https://myaccount.google.com/dashboard)
@@ -129,7 +118,6 @@
 - [Stack share](https://stackshare.io)
 - [Startup tracker](https://startuptracker.io/home)
 - [Letterboxd](https://letterboxd.com)
-- [Works for me](https://works-for-me.github.io/)
 - [Nofile 2](https://nofile.io/)
 - [Golang news](https://golangnews.com/)
 - [Steemit](https://steemit.com/@nikivi/feed)
@@ -138,7 +126,6 @@
 - [Digital ocean](https://www.digitalocean.com/)
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
-- [Twitter](https://twitter.com)
 - [Reddit grid](https://redditgrid.com/)
 - [Vimeo](https://vimeo.com/)
 - [Jumpshare](https://jumpshare.com/)
@@ -185,6 +172,20 @@
 - [Meduza](https://meduza.io/)
 - [Rutracker](http://rutracker.org/forum/index.php)
 - [Habrahabr](https://habrahabr.ru/top/)
+
+## GitHub Related Tools
+- [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
+- [Git awards](http://git-awards.com) - Find out how your GitHub profile measures up.
+- [List community](https://list.community/) - Easy way to browse curated lists on GitHub.
+- [GitHub profile visualiser](https://github-profile-summary.com/search) - Tool for visualizing GitHub profiles.
+- [Git logs](http://www.gitlogs.com/) - Discover trending repos on GitHub.
+- [Github releases](http://www.somsubhra.com/github-release-stats/)
+- [Free interactive tutorials](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md)
+- [First PR](http://firstpr.me) - See the first GitHub Pull Request you made.
+- [Github info](http://githut.info/) - Statistics about GitHub.
+- [Github](https://github.com/) - Coding through online collaboration.
+- [Github trending](https://github.com/trending) - Top trending GitHub repos.
+- [Works for me](https://works-for-me.github.io/)
 
 ## Images
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
@@ -244,6 +245,7 @@
 - [Binary age](https://discuss.binaryage.com/)
 - [Geekhack](https://geekhack.org/index.php)
 - [Rust internals](https://internals.rust-lang.org/)
+- [Quora](https://www.quora.com/) - Q&A community
 
 ## Life
 - [Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
@@ -256,7 +258,8 @@
 - [Whatsapp](https://web.whatsapp.com/)
 - [Google plus](https://plus.google.com/)
 - [Facebook](https://www.facebook.com/)
-
+- [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
+- [Twitter](https://twitter.com)
 
 ## Search
 - [Slant](https://www.slant.co/)
@@ -267,7 +270,6 @@
 
 ## Music
 - [Last.fm](https://www.last.fm/home)
-- [Last.fm charts](https://www.last.fm/music)
 - [Discogs](http://discogs.com)
 - [Rainy mood](http://www.rainymood.com/)
 - [Touch pianist](http://touchpianist.com/)
@@ -316,16 +318,15 @@
 - [Bangs](https://duckduckgo.com/bang?)
 - [Vim cheat sheet](https://vim.rtorr.com/)
 - [Deepl](https://www.deepl.com/translator)
-- [Github releases](http://www.somsubhra.com/github-release-stats/)
 - [Debuggex](https://debuggex.com/)
 - [Rawgit](http://rawgit.com/)
+- [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 
 ## Development
 - [Stackshare tools](https://stackshare.io/trending/tools)
 - [OverAPI](http://overapi.com/)
 - [Glot.io](https://glot.io/)
 - [Advent of code](http://adventofcode.com/)
-- [Free interactive tutorials](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md)
 - [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
 - [Hackr](https://hackr.io/)
 - [Libraries.io](https://libraries.io/)
@@ -339,7 +340,6 @@
 
 ## Fun
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
-- [First PR](http://firstpr.me) - See the first GitHub Pull Request you made.
 
 ## Finance
 - [Finviz](http://finviz.com/)
