@@ -28,7 +28,6 @@
 - [Pinterest](https://nl.pinterest.com/) - Pin online ideas to a central board for later.  Navigate to other people's pins as well.
 - [Rocumentaries](https://rocumentaries.com/) - Curated links to documentaries.
 - [Coworking coffee](https://www.coworking.coffee/) - Find workplaces with coffee and wifi, curated by the community.
-- [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
 - [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
 - [Interview cake](https://www.interviewcake.com/) - Practice for programming interviews.
 - [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
@@ -41,7 +40,6 @@
 - [Skyscanner](https://www.skyscanner.net/) - Global travel search site.
 - [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
-- [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
 - [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
 - [Hacker news](https://hckrnews.com/)
@@ -60,7 +58,6 @@
 - [Bold.io](https://bold.io/)
 - [Pinboard recent](https://pinboard.in/recent/)
 - [Google projects](https://console.cloud.google.com/start)
-- [Code combat](https://codecombat.com/) - Programming Game designed for Students.
 - [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
 - [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
 - [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
@@ -69,7 +66,6 @@
 - [Barnacles](https://barnacl.es/)
 - [N-gate](http://n-gate.com/) 
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
-- [Hashnode](https://hashnode.com/) - Q&A community for coders.
 - [Open culture](http://www.openculture.com/)
 - [Medium - top](https://medium.com/browse/top)
 - [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
@@ -98,12 +94,9 @@
 - [Codementor](https://www.codementor.io/)
 - [Angellist](https://angel.co)
 - [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
-- [Gnoosic](http://www.gnoosic.com/) - Website the recommends new bands based on ones you like.
-- [Unsplash](https://unsplash.com/) - A large collection of free photos.
 - [Twitch](https://www.twitch.tv/) - Free online streaming platform.
 - [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
 - [Numbeo](https://www.numbeo.com/common/) - Collection of Web pages containing numerical and other itemizable data about cities and countries.
-- [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
 - [HN favourites](http://www.hnfavorites.com/#)
 - [Egghead](https://egghead.io/) -  Group of working web development professionals and open source contributors that provide you with video courses.
 - [Bubblehunt](https://bubblehunt.com/)
@@ -219,6 +212,8 @@
 - [Imgur](https://imgur.com/)
 - [Instagram](https://www.instagram.com/)
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
+- [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
+- [Unsplash](https://unsplash.com/) - A large collection of free photos.
 
 ## Forums
 - [Swift](https://forums.swift.org/latest)
@@ -244,6 +239,8 @@
 - [Geekhack](https://geekhack.org/index.php)
 - [Rust internals](https://internals.rust-lang.org/)
 - [Quora](https://www.quora.com/) - Q&A community
+- [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
+- [Hashnode](https://hashnode.com/) - Q&A community for coders.
 
 ## Life
 - [Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
@@ -258,6 +255,7 @@
 - [Facebook](https://www.facebook.com/)
 - [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
 - [Twitter](https://twitter.com)
+- [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
 
 ## Search
 - [Slant](https://www.slant.co/)
@@ -279,6 +277,7 @@
 - [Soundcloud](https://soundcloud.com/stream) - Music streaming.
 - [Bandcamp](https://bandcamp.com/)
 - [Music player for reddit](https://reddit.musicplayer.io/)
+- [Gnoosic](http://www.gnoosic.com/) - Website the recommends new bands based on ones you like.
 
 ## Tools
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
@@ -338,6 +337,7 @@
 
 ## Fun
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
+- [Code combat](https://codecombat.com/) - Programming Game designed for Students.
 
 ## Finance
 - [Finviz](http://finviz.com/)
