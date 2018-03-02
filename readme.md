@@ -44,7 +44,6 @@
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling.
 - [Booking](https://www.booking.com/)
 - [Heroku apps](https://dashboard.heroku.com/apps)
-- [Stack real time](https://stackexchange.com/questions?tab=realtime)
 - [Google dashboard](https://myaccount.google.com/dashboard)
 - [Pocket](https://getpocket.com/a/queue/list/) - Save internet links for later.
 - [Google slides](https://docs.google.com/presentation/u/0/)
@@ -54,7 +53,6 @@
 - [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
 - [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
 - [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
-- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis.
 - [Barnacles](https://barnacl.es/)
 - [N-gate](http://n-gate.com/) 
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
@@ -101,7 +99,6 @@
 - [Startup tracker](https://startuptracker.io/home)
 - [Letterboxd](https://letterboxd.com)
 - [Nofile 2](https://nofile.io/)
-- [Golang news](https://golangnews.com/)
 - [Steemit](https://steemit.com/@nikivi/feed)
 - [Desmos](https://www.desmos.com) - Online Graphing Utility.
 - [We love golang](https://www.welovegolang.com/)
@@ -137,6 +134,7 @@
 - [HN favourites](http://www.hnfavorites.com/#)
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Gwern](https://www.gwern.net/)
+- [Golang news](https://golangnews.com/)
 
 ## Learning
 - [EdX](https://www.edx.org/)
@@ -183,6 +181,7 @@
 
 ## Machine learning
 - [DataQuest](https://www.dataquest.io/)
+- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis.
 
 ## Wiki
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
@@ -241,6 +240,7 @@
 - [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
 - [Hashnode](https://hashnode.com/) - Q&A community for coders.
 - [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
+- [Stack real time](https://stackexchange.com/questions?tab=realtime)
 
 ## Life
 - [Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
