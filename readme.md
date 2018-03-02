@@ -136,6 +136,7 @@
 - [Hacker news ranking](http://hnrankings.info/search/)
 - [HN favourites](http://www.hnfavorites.com/#)
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
+- [Gwern](https://www.gwern.net/)
 
 ## Learning
 - [EdX](https://www.edx.org/)
@@ -193,9 +194,6 @@
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
 - [Binance](https://www.binance.com/) - Cryptocurrency exchange.
 - [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
-
-## Profiles
-- [Gwern](https://www.gwern.net/)
 
 ## Startups
 - [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
