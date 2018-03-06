@@ -283,50 +283,50 @@
 ## Tools
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
-- [Bitcoin now](https://bitcoin.now.sh/)
-- [Tube replay](http://www.tubereplay.com/)
-- [Draw.io](https://www.draw.io/)
-- [Updwn](http://updwn.co/)
-- [Vocaroo](http://vocaroo.com/)
-- [Sketch toy](http://sketchtoy.com/)
-- [Streamable](https://streamable.com/)
-- [Sleep time](http://sleepyti.me/)
-- [Fast fingers](https://10fastfingers.com/typing-test/english)
+- [Bitcoin now](https://bitcoin.now.sh/) - See the current Bitcoin price.
+- [Tube replay](http://www.tubereplay.com/) - Watch a [YouTube](https://www.youtube.com) video on a loop without pressing replay.
+- [Draw.io](https://www.draw.io/) - Online flowchart maker.
+- [Updwn](http://updwn.co/) - Make simple, realtime polls.
+- [Vocaroo](http://vocaroo.com/) - Voice recording service.
+- [Sketch toy](http://sketchtoy.com/) - Free online drawing application that lets you share step-by-step replays of your work.
+- [Streamable](https://streamable.com/) - Video sharing.
+- [Sleep time](http://sleepyti.me/) - An online tool that can help you maximize your quality of sleep by hacking your sleep cycle.
+- [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.
 - [Thesaurus](http://www.thesaurus.com/) - Online Thesaurus.
 - [Sharelatex](https://www.sharelatex.com) - Online LaTeX editing.
 - [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
 - [Regex101](https://regex101.com/)
-- [Asciinema](https://asciinema.org/~nikivi)
-- [Symbolab](https://www.symbolab.com/)
+- [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
+- [Symbolab](https://www.symbolab.com/) - Online calculator that can do Calculus.
 - [Wolfram alpha](http://www.wolframalpha.com/) - Online calculator for higher math computation.
-- [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717)
+- [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
 - [Google translate](https://translate.google.com/)
-- [Crontab guru](https://crontab.guru/)
-- [Regexr](http://regexr.com/)
-- [JSON placeholder](https://jsonplaceholder.typicode.com/)
-- [Cdecl](https://cdecl.org/)
-- [Javascript event codes](http://keycode.info/)
-- [Know it all](https://know-it-all.io/)
+- [Crontab guru](https://crontab.guru/) - Cronjob monitor.
+- [Regexr](http://regexr.com/) - Online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+- [JSON placeholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
+- [Cdecl](https://cdecl.org/) - Translate C code to English.
+- [JavaScript event codes](http://keycode.info/) - Press keys to get the JavaScript keycodes.
+- [Know it all](https://know-it-all.io/) - Web list that helps you track what you know and what you don't about web development.
 - [Js bin](https://jsbin.com/?html,output)
-- [Wakatime](https://wakatime.com/dashboard)
-- [Can I use](http://caniuse.com/)
-- [Go play space](https://goplay.space/)
-- [TIO](https://tio.run/#)
+- [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
+- [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
+- [Go play space](https://goplay.space/) - Experimental alternative Go Playground frontend that is built in Go itself.
+- [TIO](https://tio.run/#) - Family of online interpreters.
 - [Jsfiddle](https://jsfiddle.net)
 - [Bangs](https://duckduckgo.com/bang?)
-- [Vim cheat sheet](https://vim.rtorr.com/)
+- [Vim cheat sheet](https://vim.rtorr.com/) - Cheat sheet for vim shortcuts.
 - [Deepl](https://www.deepl.com/translator)
-- [Debuggex](https://debuggex.com/)
+- [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
 - [Rawgit](http://rawgit.com/)
 - [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 
 ## Development
-- [Stackshare tools](https://stackshare.io/trending/tools)
+- [StackShare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
 - [OverAPI](http://overapi.com/)
-- [Glot.io](https://glot.io/)
+- [Glot.io](https://glot.io/) - Open source pastebin with runnable snippets and API.
 - [Advent of code](http://adventofcode.com/)
 - [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
-- [Hackr](https://hackr.io/)
+- [Hackr](https://hackr.io/) - Find programming Courses & Tutorials.
 - [Libraries.io](https://libraries.io/)
 - [Visualgo](https://visualgo.net/en)
 - [Code school](https://www.codeschool.com/)
