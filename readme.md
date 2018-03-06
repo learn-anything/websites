@@ -2,16 +2,20 @@
 *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## General
+- [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com) - Find the shortest navigation paths between any two Wikipedia pages.
 - [Tumblr](https://www.tumblr.com) - Blogging Website.
 - [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
 - [Nutrition facts](https://nutritionfacts.org/) - Watch free videos on more than 2,000 health and nutrition topics with new videos and articles uploaded every day.
+- [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 - [How stuff works](http://www.howstuffworks.com/)
 - [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
 - [Uses This](https://usesthis.com/) - Collection of Interviews.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
 - [Medium drafts](https://medium.com/me/stories/drafts)
+- [Fast company](https://www.fastcompany.com/) - Online Magazine.
 - [Artsy](https://www.artsy.net/)
 - [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
 - [Brilliant](https://brilliant.org/) - Online math brain puzzles.
@@ -29,6 +33,7 @@
 - [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 - [Telegraph](http://telegra.ph/)
 - [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
+- [Checkio](https://py.checkio.org/) - Games for coding.
 - [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
 - [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
@@ -36,6 +41,8 @@
 - [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
 - [Godoc](https://godoc.org/) - Search for Go Packages.
+- [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
+- [Hacker news](https://hckrnews.com/)
 - [Daybook](https://www.daybook.co/) - Online Notebook.
 - [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
 - [Google trends](https://trends.google.com/trends/) - Discover what people are searching about.
@@ -44,6 +51,7 @@
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling.
 - [Booking](https://www.booking.com/)
 - [Heroku apps](https://dashboard.heroku.com/apps)
+- [Stack real time](https://stackexchange.com/questions?tab=realtime)
 - [Google dashboard](https://myaccount.google.com/dashboard)
 - [Pocket](https://getpocket.com/a/queue/list/) - Save internet links for later.
 - [Google slides](https://docs.google.com/presentation/u/0/)
@@ -51,10 +59,12 @@
 - [Pinboard recent](https://pinboard.in/recent/)
 - [Google projects](https://console.cloud.google.com/start)
 - [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
-- [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world�s largest software registry.
+- [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
 - [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis.
+- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
 - [Barnacles](https://barnacl.es/)
-- [N-gate](http://n-gate.com/) 
+- [N-gate](http://n-gate.com/)
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
 - [Open culture](http://www.openculture.com/)
 - [Medium - top](https://medium.com/browse/top)
@@ -84,21 +94,25 @@
 - [Codementor](https://www.codementor.io/)
 - [Angellist](https://angel.co)
 - [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
-- [Twitch](https://www.twitch.tv/) - Free online video streaming platform.
+- [Twitch](https://www.twitch.tv/) - Free online streaming platform.
 - [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
 - [Numbeo](https://www.numbeo.com/common/) - Collection of Web pages containing numerical and other itemizable data about cities and countries.
+- [HN favourites](http://www.hnfavorites.com/#)
 - [Egghead](https://egghead.io/) -  Group of working web development professionals and open source contributors that provide you with video courses.
 - [Bubblehunt](https://bubblehunt.com/)
 - [Readspike](https://readspike.com/)
 - [Lobsters](https://lobste.rs/) - Technology-focused community centered around link aggregation and discussion.
 - [21.co](https://21.co/)
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
+- [Hacker news ranking](http://hnrankings.info/search/)
+- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
 - [Golang weekly](https://golangweekly.com)
 - [Stack share](https://stackshare.io)
 - [Startup tracker](https://startuptracker.io/home)
 - [Letterboxd](https://letterboxd.com)
 - [Nofile 2](https://nofile.io/)
+- [Golang news](https://golangnews.com/)
 - [Steemit](https://steemit.com/@nikivi/feed)
 - [Desmos](https://www.desmos.com) - Online Graphing Utility.
 - [We love golang](https://www.welovegolang.com/)
@@ -113,6 +127,7 @@
 - [Slashdot](https://slashdot.org/)
 - [PH today](http://ph.needles.me/)
 - [Favourite and forget](http://usefulinterweb.com/)
+- [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
 - [Freecodecamp](https://www.freecodecamp.com/)
 - [Product hunt](https://www.producthunt.com/)
 - [Medium](https://medium.com/)
@@ -122,19 +137,6 @@
 - [Hackerrank](https://www.hackerrank.com/)
 - [Interviewbit](https://www.interviewbit.com/)
 - [YouTube](https://www.youtube.com/) - Free Online Video Sharing.
-
-## News
-- [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
-- [Fast company](https://www.fastcompany.com/) - Online Magazine.
-- [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
-- [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
-- [Hacker news](https://hckrnews.com/)
-- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
-- [Hacker news ranking](http://hnrankings.info/search/)
-- [HN favourites](http://www.hnfavorites.com/#)
-- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
-- [Gwern](https://www.gwern.net/)
-- [Golang news](https://golangnews.com/)
 
 ## Learning
 - [EdX](https://www.edx.org/)
@@ -150,7 +152,6 @@
 - [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
 - [Physics Travel Guide](https://physicstravelguide.com)
 - [MDN](https://developer.mozilla.org/en-US/)
-- [Checkio](https://py.checkio.org/) - Games for coding.
 
 ## Apple Device Tools
 - [Macscripter](http://macscripter.net/index.php)
@@ -181,7 +182,6 @@
 
 ## Machine learning
 - [DataQuest](https://www.dataquest.io/)
-- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis.
 
 ## Wiki
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
@@ -192,7 +192,11 @@
 ## Cryptocurrencies
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
 - [Binance](https://www.binance.com/) - Cryptocurrency exchange.
+- [Bitstamp](https://www.bitstamp.net)
 - [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
+
+## Profiles
+- [Gwern](https://www.gwern.net/)
 
 ## Startups
 - [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
@@ -211,7 +215,6 @@
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
 - [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
 - [Unsplash](https://unsplash.com/) - A large collection of free photos.
-- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 
 ## Forums
 - [Swift](https://forums.swift.org/latest)
@@ -239,8 +242,6 @@
 - [Quora](https://www.quora.com/) - Q&A community
 - [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
 - [Hashnode](https://hashnode.com/) - Q&A community for coders.
-- [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
-- [Stack real time](https://stackexchange.com/questions?tab=realtime)
 
 ## Life
 - [Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
@@ -280,6 +281,7 @@
 - [Gnoosic](http://www.gnoosic.com/) - Website the recommends new bands based on ones you like.
 
 ## Tools
+- [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
 - [Bitcoin now](https://bitcoin.now.sh/)
 - [Tube replay](http://www.tubereplay.com/)
@@ -337,7 +339,6 @@
 ## Fun
 - [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
 - [Code combat](https://codecombat.com/) - Programming Game designed for Students.
-- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com) - Find the shortest navigation paths between any two Wikipedia pages.
 
 ## Finance
 - [Finviz](http://finviz.com/)
@@ -353,7 +354,7 @@
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).
 
-## More lists 📝
+## More lists 📔
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
 ## License
