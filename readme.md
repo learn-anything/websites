@@ -280,6 +280,9 @@
 - [Music player for reddit](https://reddit.musicplayer.io/)
 - [Gnoosic](http://www.gnoosic.com/) - Website the recommends new bands based on ones you like.
 
+## Cloud services
+- [iCloud](https://www.icloud.com)
+
 ## Tools
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
