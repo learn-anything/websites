@@ -91,8 +91,8 @@
 - [Skytorrents](https://www.skytorrents.in/) - Torrent Tracker.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
 - [Sci-hub](https://sci-hub.cc/)
-- [Codementor](https://www.codementor.io/)
-- [Angellist](https://angel.co)
+- [Codementor](https://www.codementor.io/) - Find freelance developers.
+- [Angellist](https://angel.co) - Find a job at a startup or post a job at a startup.
 - [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
 - [Twitch](https://www.twitch.tv/) - Free online streaming platform.
 - [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
@@ -111,11 +111,11 @@
 - [Stack share](https://stackshare.io)
 - [Startup tracker](https://startuptracker.io/home)
 - [Letterboxd](https://letterboxd.com)
-- [Nofile 2](https://nofile.io/)
+- [Nofile 2](https://nofile.io/) - Simple and secure file sharing.
 - [Golang news](https://golangnews.com/)
 - [Steemit](https://steemit.com/@nikivi/feed)
 - [Desmos](https://www.desmos.com) - Online Graphing Utility.
-- [We love golang](https://www.welovegolang.com/)
+- [We love golang](https://www.welovegolang.com/) - Find jobs for Go developers.
 - [Digital ocean](https://www.digitalocean.com/)
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
