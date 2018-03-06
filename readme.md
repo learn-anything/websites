@@ -91,8 +91,6 @@
 - [Skytorrents](https://www.skytorrents.in/) - Torrent Tracker.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
 - [Sci-hub](https://sci-hub.cc/)
-- [Codementor](https://www.codementor.io/) - Find freelance developers.
-- [Angellist](https://angel.co) - Find a job at a startup or post a job at a startup.
 - [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
 - [Twitch](https://www.twitch.tv/) - Free online streaming platform.
 - [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
@@ -115,19 +113,17 @@
 - [Golang news](https://golangnews.com/)
 - [Steemit](https://steemit.com/@nikivi/feed)
 - [Desmos](https://www.desmos.com) - Online Graphing Utility.
-- [We love golang](https://www.welovegolang.com/) - Find jobs for Go developers.
 - [Digital ocean](https://www.digitalocean.com/)
 - [Codewars](https://www.codewars.com/)
 - [Codingame](https://www.codingame.com/home)
 - [Reddit grid](https://redditgrid.com/)
-- [Vimeo](https://vimeo.com/)
+- [Vimeo](https://vimeo.com/) - Free online high quality video sharing.
 - [Jumpshare](https://jumpshare.com/)
 - [Quizlet](https://quizlet.com/latest)
 - [Dribble](https://dribbble.com/shots)
 - [Slashdot](https://slashdot.org/)
 - [PH today](http://ph.needles.me/)
 - [Favourite and forget](http://usefulinterweb.com/)
-- [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
 - [Freecodecamp](https://www.freecodecamp.com/)
 - [Product hunt](https://www.producthunt.com/)
 - [Medium](https://medium.com/)
@@ -188,6 +184,9 @@
 
 ## Jobs
 - [Graduateland](https://graduateland.com)
+- [We love golang](https://www.welovegolang.com/) - Find jobs for Go developers.
+- [Codementor](https://www.codementor.io/) - Find freelance developers.
+- [Angellist](https://angel.co) - Find a job at a startup or post a job at a startup.
 
 ## Cryptocurrencies
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
@@ -242,6 +241,7 @@
 - [Quora](https://www.quora.com/) - Q&A community
 - [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
 - [Hashnode](https://hashnode.com/) - Q&A community for coders.
+- [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
 
 ## Life
 - [Drive](https://drive.google.com/drive/my-drive) - Cloud storage and cloud editing for files.
@@ -255,7 +255,7 @@
 - [Google plus](https://plus.google.com/)
 - [Facebook](https://www.facebook.com/)
 - [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
-- [Twitter](https://twitter.com)
+- [Twitter](https://twitter.com) - Share messages in 250 characters or less.
 - [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
 
 ## Search
