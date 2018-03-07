@@ -60,7 +60,7 @@
 - [Coderpad](https://coderpad.io/) - Similar to Google Docs, but can execute code.
 - [Skytorrents](https://www.skytorrents.in/) - Torrent Tracker.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
-- [Sci-hub](https://sci-hub.cc/)
+- [Sci-hub](https://scihub.org/)
 - [Twitch](https://www.twitch.tv/) - Free online streaming platform.
 - [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
 - [Numbeo](https://www.numbeo.com/common/) - Collection of Web pages containing numerical and other itemizable data about cities and countries.
