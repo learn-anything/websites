@@ -2,14 +2,11 @@
 *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 ## General
-- [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com) - Find the shortest navigation paths between any two Wikipedia pages.
 - [Tumblr](https://www.tumblr.com) - Blogging Website.
 - [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
 - [Nutrition facts](https://nutritionfacts.org/) - Watch free videos on more than 2,000 health and nutrition topics with new videos and articles uploaded every day.
-- [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
-- [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 - [How stuff works](http://www.howstuffworks.com/)
 - [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
 - [Uses This](https://usesthis.com/) - Collection of Interviews.
@@ -17,7 +14,6 @@
 - [Medium drafts](https://medium.com/me/stories/drafts)
 - [Fast company](https://www.fastcompany.com/) - Online Magazine.
 - [Artsy](https://www.artsy.net/)
-- [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
 - [Brilliant](https://brilliant.org/) - Online math brain puzzles.
 - [Gitxiv](http://www.gitxiv.com/) - Online space to share collaborative open computer science projects.
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
@@ -40,8 +36,6 @@
 - [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
 - [Godoc](https://godoc.org/) - Search for Go Packages.
-- [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
-- [Hacker news](https://hckrnews.com/)
 - [Daybook](https://www.daybook.co/) - Online Notebook.
 - [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
 - [Google trends](https://trends.google.com/trends/) - Discover what people are searching about.
@@ -61,15 +55,12 @@
 - [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
 - [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis.
-- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
 - [Barnacles](https://barnacl.es/)
 - [N-gate](http://n-gate.com/)
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
 - [Open culture](http://www.openculture.com/)
-- [Medium - top](https://medium.com/browse/top)
 - [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
 - [Thought maybe](https://thoughtmaybe.com/?ref=producthunt) - Online library of films.
-- [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
 - [Topl](http://www.topl.io/) -  Community-driven curation for lists.
 - [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
 - [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage) - Read about "Tropes" in popular usage.
@@ -100,8 +91,6 @@
 - [Readspike](https://readspike.com/)
 - [Lobsters](https://lobste.rs/) - Technology-focused community centered around link aggregation and discussion.
 - [21.co](https://21.co/)
-- [Hacker news ranking](http://hnrankings.info/search/)
-- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
 - [Golang weekly](https://golangweekly.com)
 - [Stack share](https://stackshare.io)
@@ -125,7 +114,6 @@
 - [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
 - [Freecodecamp](https://www.freecodecamp.com/)
 - [Product hunt](https://www.producthunt.com/)
-- [Medium](https://medium.com/)
 - [Devpost](https://devpost.com/)
 - [Zen habits](https://zenhabits.net/archives/)
 - [Eventbrite](https://www.eventbrite.com/)
@@ -160,6 +148,20 @@
 - [Meduza](https://meduza.io/)
 - [Rutracker](http://rutracker.org/forum/index.php)
 - [Habrahabr](https://habrahabr.ru/top/)
+
+## News
+- [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
+- [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
+- [Hacker news ranking](http://hnrankings.info/search/)
+- [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
+- [Medium](https://medium.com/)
+- [Medium - top](https://medium.com/browse/top)
+- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
+- [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
+- [Hacker news](https://hckrnews.com/)
+- [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
+- [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
+- [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
 
 ## GitHub Related Tools
 - [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
