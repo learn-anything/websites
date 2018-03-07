@@ -151,6 +151,7 @@
 - [PH today](http://ph.needles.me/)
 - [Slashdot](https://slashdot.org/)
 - [Sparkman](http://sparkman.strikingly.com/)
+- [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
 
 ## GitHub Related Tools
 - [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
