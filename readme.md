@@ -257,6 +257,11 @@
 - [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles.
 - [Bangs](https://duckduckgo.com/bang?)
 
+## Services
+- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
+- [Google Docs](https://docs.google.com/document/u/0/)
+- [Google Slides](https://docs.google.com/presentation/u/0/)
+
 ## Video
 - [Tube replay](http://www.tubereplay.com/) - Watch a [YouTube](https://www.youtube.com) video on a loop without pressing replay.
 - [Streamable](https://streamable.com/) - Video sharing.
