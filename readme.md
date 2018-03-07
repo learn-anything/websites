@@ -33,7 +33,6 @@
 - [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 - [Telegraph](http://telegra.ph/)
 - [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
-- [Checkio](https://py.checkio.org/) - Games for coding.
 - [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
 - [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
@@ -101,7 +100,6 @@
 - [Readspike](https://readspike.com/)
 - [Lobsters](https://lobste.rs/) - Technology-focused community centered around link aggregation and discussion.
 - [21.co](https://21.co/)
-- [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
 - [Hacker news ranking](http://hnrankings.info/search/)
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
@@ -321,6 +319,12 @@
 - [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
 - [Rawgit](http://rawgit.com/)
 - [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
+- [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
+
+## Games
+- [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
+- [Checkio](https://py.checkio.org/) - Games for coding.
+- [Code combat](https://codecombat.com/) - Programming Game designed for Students.
 
 ## Development
 - [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
@@ -337,10 +341,6 @@
 - [Codility](https://codility.com/programmers/)
 - [Go FAQ](https://golang.org/doc/faq#nil_error)
 - [Go compiler explorer](https://go.godbolt.org/)
-
-## Fun
-- [Donger list](http://dongerlist.com/) - Set of unicode characters assembled to form a text emoticon.
-- [Code combat](https://codecombat.com/) - Programming Game designed for Students.
 
 ## Finance
 - [Finviz](http://finviz.com/)
