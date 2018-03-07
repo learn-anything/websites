@@ -6,43 +6,29 @@
 - [Tumblr](https://www.tumblr.com) - Blogging Website.
 - [Gitbook](https://www.gitbook.com/) - Collaboration platform using Git as a backbone.
 - [AlternativeTo](http://alternativeto.net/) - Crowdsourced software recommendations of alternative free software.
-- [Nutrition facts](https://nutritionfacts.org/) - Watch free videos on more than 2,000 health and nutrition topics with new videos and articles uploaded every day.
 - [How stuff works](http://www.howstuffworks.com/)
-- [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
 - [Uses This](https://usesthis.com/) - Collection of Interviews.
 - [Jupyter notebook](http://nbviewer.jupyter.org/) - RStudio Style Markdown Notebooks done in Python.
-- [Medium drafts](https://medium.com/me/stories/drafts)
-- [Fast company](https://www.fastcompany.com/) - Online Magazine.
 - [Artsy](https://www.artsy.net/)
 - [Brilliant](https://brilliant.org/) - Online math brain puzzles.
 - [Gitxiv](http://www.gitxiv.com/) - Online space to share collaborative open computer science projects.
 - [Firebase](https://console.firebase.google.com/?pli=1) - Tools from Google for developing Apps.
-- [Massdrop](https://www.massdrop.com/my-communities) - Community-Driven Commerce.
-- [Etsy](https://www.etsy.com/?ref=lgo) - Online Shopping Platform.
-- [Tutorials point](https://www.tutorialspoint.com/index.htm) - Online Tutorials at your own pace.
 - [Couchsurfing](https://www.couchsurfing.com) - Meet and stay with locals all around the world.
 - [Pinterest](https://nl.pinterest.com/) - Pin online ideas to a central board for later.  Navigate to other people's pins as well.
 - [Rocumentaries](https://rocumentaries.com/) - Curated links to documentaries.
 - [Coworking coffee](https://www.coworking.coffee/) - Find workplaces with coffee and wifi, curated by the community.
 - [Arbital](https://arbital.com/) - Hybrid blogging and wiki platform.
-- [Interview cake](https://www.interviewcake.com/) - Practice for programming interviews.
 - [Pastebin](https://pastebin.com/) - Store any text online for easy sharing.
 - [Telegraph](http://telegra.ph/)
-- [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
-- [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
 - [HackMD](https://hackmd.io/) - Realtime, Multiplatform Collaborative Markdown note editor.
-- [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
 - [Skyscanner](https://www.skyscanner.net/) - Global travel search site.
-- [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 - [Chemdiary](https://chemdiary.com/users/sign_in) - Track your drug, research chemical and nootropic use.
-- [Godoc](https://godoc.org/) - Search for Go Packages.
 - [Daybook](https://www.daybook.co/) - Online Notebook.
 - [Arxiv](https://arxiv.org/) - Open access to 1,364,248 e-prints in STEM fields.
 - [Google trends](https://trends.google.com/trends/) - Discover what people are searching about.
 - [Azquotes](http://www.azquotes.com/) - Thousands of quotes by thousands of people.
 - [Google docs](https://docs.google.com/document/u/0/) - Online collaboration for all your office documents.
 - [Google forms](https://docs.google.com/forms/u/0/) - Quick and easy quizzing or polling.
-- [Booking](https://www.booking.com/)
 - [Heroku apps](https://dashboard.heroku.com/apps)
 - [Stack real time](https://stackexchange.com/questions?tab=realtime)
 - [Google dashboard](https://myaccount.google.com/dashboard)
@@ -53,19 +39,13 @@
 - [Google projects](https://console.cloud.google.com/start)
 - [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
 - [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
-- [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
-- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis.
 - [Barnacles](https://barnacl.es/)
 - [N-gate](http://n-gate.com/)
 - [Scholarpedia](http://www.scholarpedia.org/article/Main_Page) - Peer-reviewed open-access encyclopedia, where knowledge is curated by communities of experts.
-- [Open culture](http://www.openculture.com/)
-- [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
-- [Thought maybe](https://thoughtmaybe.com/?ref=producthunt) - Online library of films.
 - [Topl](http://www.topl.io/) -  Community-driven curation for lists.
 - [Zeef](https://zeef.com/) - Curated Directory for Development & Tech Resources.
 - [Tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/HomePage) - Read about "Tropes" in popular usage.
 - [Letters of note](http://www.lettersofnote.com/) - Attempts to gather and sort fascinating letters, postcards, telegrams, faxes, and memos.
-- [Sparkman](http://sparkman.strikingly.com/)
 - [Exercism](http://exercism.io/) - Online execution of programming problems.
 - [Project euler](https://projecteuler.net/archives)
 - [Vim awesome](http://vimawesome.com/) - Find vim plugins.
@@ -81,45 +61,28 @@
 - [Skytorrents](https://www.skytorrents.in/) - Torrent Tracker.
 - [Instant.io](https://instant.io/) - Torrent Tracker.
 - [Sci-hub](https://sci-hub.cc/)
-- [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
 - [Twitch](https://www.twitch.tv/) - Free online streaming platform.
 - [Snoopsnoo](https://snoopsnoo.com/) - Discover about Reddit Users based on their post history.
 - [Numbeo](https://www.numbeo.com/common/) - Collection of Web pages containing numerical and other itemizable data about cities and countries.
-- [HN favourites](http://www.hnfavorites.com/#)
-- [Egghead](https://egghead.io/) -  Group of working web development professionals and open source contributors that provide you with video courses.
 - [Bubblehunt](https://bubblehunt.com/)
-- [Readspike](https://readspike.com/)
 - [Lobsters](https://lobste.rs/) - Technology-focused community centered around link aggregation and discussion.
 - [21.co](https://21.co/)
-- [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
-- [Golang weekly](https://golangweekly.com)
 - [Stack share](https://stackshare.io)
 - [Startup tracker](https://startuptracker.io/home)
-- [Letterboxd](https://letterboxd.com)
 - [Nofile 2](https://nofile.io/) - Simple and secure file sharing.
-- [Golang news](https://golangnews.com/)
 - [Steemit](https://steemit.com/@nikivi/feed)
 - [Desmos](https://www.desmos.com) - Online Graphing Utility.
 - [Digital ocean](https://www.digitalocean.com/)
-- [Codewars](https://www.codewars.com/)
-- [Codingame](https://www.codingame.com/home)
 - [Reddit grid](https://redditgrid.com/)
-- [Vimeo](https://vimeo.com/) - Free online high quality video sharing.
 - [Jumpshare](https://jumpshare.com/)
-- [Quizlet](https://quizlet.com/latest)
 - [Dribble](https://dribbble.com/shots)
-- [Slashdot](https://slashdot.org/)
-- [PH today](http://ph.needles.me/)
 - [Favourite and forget](http://usefulinterweb.com/)
-- [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
-- [Freecodecamp](https://www.freecodecamp.com/)
 - [Product hunt](https://www.producthunt.com/)
 - [Devpost](https://devpost.com/)
 - [Zen habits](https://zenhabits.net/archives/)
 - [Eventbrite](https://www.eventbrite.com/)
 - [Hackerrank](https://www.hackerrank.com/)
 - [Interviewbit](https://www.interviewbit.com/)
-- [YouTube](https://www.youtube.com/) - Free Online Video Sharing.
 
 ## Learning
 - [EdX](https://www.edx.org/)
@@ -135,6 +98,15 @@
 - [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
 - [Physics Travel Guide](https://physicstravelguide.com)
 - [MDN](https://developer.mozilla.org/en-US/)
+- [Egghead](https://egghead.io/) -  Group of working web development professionals and open source contributors that provide you with video courses.
+- [Tutorials point](https://www.tutorialspoint.com/index.htm) - Online Tutorials at your own pace.
+- [Interview cake](https://www.interviewcake.com/) - Practice for programming interviews.
+- [Leetcode](https://leetcode.com) - Platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+- [Silicon valley dictionary](http://svdictionary.com/) - Online dictionary targeted at Coders, similar to UrbanDictionary
+- [Open culture](http://www.openculture.com/)
+- [Freecodecamp](https://www.freecodecamp.com/)
+- [Quizlet](https://quizlet.com/latest)
+- [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 
 ## Apple Device Tools
 - [Macscripter](http://macscripter.net/index.php)
@@ -142,6 +114,13 @@
 - [Hammerspoon](http://www.hammerspoon.org) - Automate macOS using Lua.
 - [Overcast](https://overcast.fm/podcasts) - Podcast player for iPhone, iPad, and Apple Watch.
 - [Packal](http://www.packal.org/) - Bundles for [Alfred](https://www.alfredapp.com/).
+
+## Go Resources and Tools
+- [Godoc](https://godoc.org/) - Search for Go Packages.
+- [Go play space](https://goplay.space/) - Experimental alternative Go Playground frontend that is built in Go itself.
+- [Go FAQ](https://golang.org/doc/faq#nil_error)
+- [Go compiler explorer](https://go.godbolt.org/)
+- [Visualgo](https://visualgo.net/en)
 
 ## Russian
 - [Postnauka](https://postnauka.ru/)
@@ -156,12 +135,22 @@
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Medium](https://medium.com/)
 - [Medium - top](https://medium.com/browse/top)
+- [Medium drafts](https://medium.com/me/stories/drafts)
 - [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
 - [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
 - [Hacker news](https://hckrnews.com/)
 - [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 - [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
+- [Golang weekly](https://golangweekly.com)
+- [Golang news](https://golangnews.com/)
+- [Nutrition facts](https://nutritionfacts.org/) - Watch free videos on more than 2,000 health and nutrition topics with new videos and articles uploaded every day.
+- [HN favourites](http://www.hnfavorites.com/#)
+- [Fast company](https://www.fastcompany.com/) - Online Magazine.
+- [Readspike](https://readspike.com/)
+- [PH today](http://ph.needles.me/)
+- [Slashdot](https://slashdot.org/)
+- [Sparkman](http://sparkman.strikingly.com/)
 
 ## GitHub Related Tools
 - [GitHub issues](https://github.com/issues) - Look at all of your GitHub Issues (Created, Assigned, or Mentioned).
@@ -179,6 +168,8 @@
 
 ## Machine learning
 - [DataQuest](https://www.dataquest.io/)
+- [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis through Machine learning.
+- [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
 
 ## Wiki
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
@@ -242,6 +233,7 @@
 - [Quora](https://www.quora.com/) - Q&A community
 - [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
 - [Hashnode](https://hashnode.com/) - Q&A community for coders.
+- [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
 
 ## Life
 - [Toggl](https://toggl.com/) - Budgeting and Timeline Manager for projects.
@@ -262,6 +254,16 @@
 - [Duckduckgo](https://duckduckgo.com/) - Private Web Searching.
 - [Yandex](https://www.yandex.com/)
 - [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles.
+- [Bangs](https://duckduckgo.com/bang?)
+
+## Video
+- [Tube replay](http://www.tubereplay.com/) - Watch a [YouTube](https://www.youtube.com) video on a loop without pressing replay.
+- [Streamable](https://streamable.com/) - Video sharing.
+- [YouTube](https://www.youtube.com/) - Free Online Video Sharing.
+- [Vimeo](https://vimeo.com/) - Free online high quality video sharing.
+- [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
+- [Thought maybe](https://thoughtmaybe.com/?ref=producthunt) - Online library of films.
+- [Letterboxd](https://letterboxd.com)
 
 ## Music
 - [Last.fm](https://www.last.fm/home)
@@ -286,12 +288,10 @@
 ## Tools
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
-- [Tube replay](http://www.tubereplay.com/) - Watch a [YouTube](https://www.youtube.com) video on a loop without pressing replay.
 - [Draw.io](https://www.draw.io/) - Online flowchart maker.
 - [Updwn](http://updwn.co/) - Make simple, realtime polls.
 - [Vocaroo](http://vocaroo.com/) - Voice recording service.
 - [Sketch toy](http://sketchtoy.com/) - Free online drawing application that lets you share step-by-step replays of your work.
-- [Streamable](https://streamable.com/) - Video sharing.
 - [Sleep time](http://sleepyti.me/) - An online tool that can help you maximize your quality of sleep by hacking your sleep cycle.
 - [Fast fingers](https://10fastfingers.com/typing-test/english) - Online typing test.
 - [Thesaurus](http://www.thesaurus.com/) - Online Thesaurus.
@@ -312,10 +312,8 @@
 - [Js bin](https://jsbin.com/?html,output)
 - [Wakatime](https://wakatime.com/dashboard) - Track time and amount you code in particular languages.
 - [Can I use](http://caniuse.com/) - Use Google Analytics to decide whether users can use a feature in your website.
-- [Go play space](https://goplay.space/) - Experimental alternative Go Playground frontend that is built in Go itself.
 - [TIO](https://tio.run/#) - Family of online interpreters.
 - [Jsfiddle](https://jsfiddle.net)
-- [Bangs](https://duckduckgo.com/bang?)
 - [Vim cheat sheet](https://vim.rtorr.com/) - Cheat sheet for vim shortcuts.
 - [Deepl](https://www.deepl.com/translator)
 - [Debuggex](https://debuggex.com/) - Online visual regex tester. JavaScript, Python, and PCRE.
@@ -327,6 +325,8 @@
 - [Itch.io](https://itch.io/) - Simple way to find and share indie games online for free.
 - [Checkio](https://py.checkio.org/) - Games for coding.
 - [Code combat](https://codecombat.com/) - Programming Game designed for Students.
+- [Codewars](https://www.codewars.com/)
+- [Codingame](https://www.codingame.com/home)
 
 ## Development
 - [Stackshare tools](https://stackshare.io/trending/tools) - See which open source tools are trending across StackShare.
@@ -336,19 +336,23 @@
 - [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
 - [Hackr](https://hackr.io/) - Find programming Courses & Tutorials.
 - [Libraries.io](https://libraries.io/)
-- [Visualgo](https://visualgo.net/en)
 - [Code school](https://www.codeschool.com/)
 - [Realm](https://realm.io/)
 - [Leetcode discuss](https://discuss.leetcode.com/category/5/interview-questions)
 - [Codility](https://codility.com/programmers/)
-- [Go FAQ](https://golang.org/doc/faq#nil_error)
-- [Go compiler explorer](https://go.godbolt.org/)
+- [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
+- [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
+- [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
 
 ## Finance
 - [Finviz](http://finviz.com/)
 - [Trading view](https://www.tradingview.com/)
 - [Paypal](https://www.paypal.com)
 - [Bitcoin now](https://bitcoin.now.sh/) - See the current Bitcoin price.
+- [Massdrop](https://www.massdrop.com/my-communities) - Community-Driven Commerce.
+- [Patreon](https://www.patreon.com/home) - Join your favorite creator's community and pay them for making the stuff you love.
+- [Etsy](https://www.etsy.com/?ref=lgo) - Online Shopping Platform.
+- [Booking](https://www.booking.com/)
 
 ## Experiments
 - [WebGL water](http://madebyevan.com/webgl-water/)
