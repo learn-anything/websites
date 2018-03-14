@@ -365,7 +365,7 @@
 - [WebGL water](http://madebyevan.com/webgl-water/)
 
 ## Related
-- [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).
