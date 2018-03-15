@@ -107,6 +107,7 @@
 - [Freecodecamp](https://www.freecodecamp.com/)
 - [Quizlet](https://quizlet.com/latest)
 - [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
+- [Where is SciHub](https://whereisscihub.herokuapp.com/go) - Go to correct link of SciHub (reserach paper search).
 
 ## Apple Device Tools
 - [Macscripter](http://macscripter.net/index.php)
