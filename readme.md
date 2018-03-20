@@ -211,6 +211,7 @@
 
 ## Forums
 - [Swift](https://forums.swift.org/latest)
+- [Eth Research](https://ethresear.ch/)
 - [fast.ai deep learning](http://forums.fast.ai/)
 - [Users rust](https://users.rust-lang.org)
 - [Keyboard Maestro](https://forum.keyboardmaestro.com/latest)
