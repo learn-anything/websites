@@ -247,6 +247,7 @@
 ## Music
 - [Last.fm](https://www.last.fm/home)
 - [Discogs](http://discogs.com)
+- [YTRadio](https://ytradio.xyz/#/) - Live music playlists from YouTube.
 - [Rainy mood](http://www.rainymood.com/)
 - [Touch pianist](http://touchpianist.com/)
 - [Jazz and rain](http://www.jazzandrain.com/)
