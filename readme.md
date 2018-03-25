@@ -87,6 +87,7 @@
 ## Learning
 - [EdX](https://www.edx.org/)
 - [Courseroot](https://courseroot.com/) - Search best online courses.
+- [Class central](https://www.class-central.com/)
 - [Udacity](https://www.udacity.com/)
 - [Udemy](https://www.udemy.com/user/nikitavoloboev/)
 - [TED](https://www.ted.com/) - Free Expert Academic Talks.
