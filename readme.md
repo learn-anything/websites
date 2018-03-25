@@ -184,6 +184,7 @@
 
 ## Cryptocurrencies
 - [Coingecko](https://www.coingecko.com/en) - Cryptocurrencies charts.
+- [Coin marketcap](https://coinmarketcap.com/) - Cryptocurrency Market Capitalizations.
 - [Binance](https://www.binance.com/) - Cryptocurrency exchange.
 - [Bitstamp](https://www.bitstamp.net)
 - [gate.io](https://gate.io/) - Blockchain Assets Trading Platform.
