@@ -136,6 +136,7 @@
 ## News
 - [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
 - [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
+- [Quanta Magazine](https://www.quantamagazine.org/)
 - [Hacker news ranking](http://hnrankings.info/search/)
 - [HN top stories - this week](http://hnpaper.forge.partlab.io/top/week)
 - [Medium](https://medium.com/)
