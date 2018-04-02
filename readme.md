@@ -134,6 +134,9 @@
 - [Habrahabr](https://habrahabr.ru/top/)
 
 ## News
+- [Hacker news](https://hckrnews.com/)
+- [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
+- [Code HN](https://code.hn/) Hacker news with only links from GitHub or GitLab.
 - [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
 - [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
 - [Quanta Magazine](https://www.quantamagazine.org/)
@@ -143,8 +146,6 @@
 - [Medium - top](https://medium.com/browse/top)
 - [Medium drafts](https://medium.com/me/stories/drafts)
 - [Quanta magazine](https://www.quantamagazine.org/) - Online magazine focusing on STEM topics.
-- [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
-- [Hacker news](https://hckrnews.com/)
 - [Geeksforgeeks](http://www.geeksforgeeks.org/) - Portal to Computer Science topics.
 - [The working lunch](https://theworkinglunch.co/) - Articles, Podcasts, and Videos for your lunch break.
 - [Deskhunt](http://deskhunt.com/) - Place where inspirational workspaces meet stories about focus, ergonomics and self improvement.
