@@ -354,7 +354,7 @@
 ## Contributing
 See [contribution guidelines](contributing.md#contribution-guidelines).
 
-## More lists 📔
+## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
 
 ## License
