@@ -36,7 +36,8 @@
 - [Pocket](https://getpocket.com/a/queue/list/) - Save internet links for later.
 - [Google slides](https://docs.google.com/presentation/u/0/)
 - [Bold.io](https://bold.io/)
-- [Pinboard recent](https://pinboard.in/recent/)
+- [Pinboard (popular)](https://pinboard.in/popular/)
+- [Pinboard (recent)](https://pinboard.in/recent/)
 - [Google projects](https://console.cloud.google.com/start)
 - [Learn anything](https://learn-anything.xyz) - Platform for knowledge discovery that helps you understand any topic through the most efficient paths, as voted by the community.
 - [Npm](https://www.npmjs.com/) - npm is the package manager for JavaScript and the world’s largest software registry.
