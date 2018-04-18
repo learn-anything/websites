@@ -136,7 +136,7 @@
 
 ## News
 - [Hacker news](https://hckrnews.com/)
-- [Hacker news new](https://news.ycombinator.com/newest) - RSS for Hacker News.
+- [Hacker news (new)](https://news.ycombinator.com/newest) - RSS for Hacker News.
 - [Code HN](https://code.hn/) Hacker news with only links from GitHub or GitLab.
 - [Datatau](http://www.datatau.com/news) - Hacker News for data scientists.
 - [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
