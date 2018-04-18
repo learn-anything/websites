@@ -347,6 +347,7 @@
 
 ## Other
 - [HN leader board](https://hnleaderboard.com/?)
+- [Octopart](https://octopart.com/) - Search engine for electronic parts.
 
 ## Related
 - [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#readme)
