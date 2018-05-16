@@ -86,7 +86,7 @@
 - [Hackerrank](https://www.hackerrank.com/)
 - [Interviewbit](https://www.interviewbit.com/)
 
-## Learning
+## Learn
 - [EdX](https://www.edx.org/)
 - [Courseroot](https://courseroot.com/) - Search best online courses.
 - [Class central](https://www.class-central.com/)
@@ -114,6 +114,7 @@
 - [Lecture search](https://www.findlectures.com/) - Find Online Lectures.
 - [Where is SciHub](https://whereisscihub.herokuapp.com/go) - Go to correct link of SciHub (reserach paper search).
 - [Library of Babel](http://libraryofbabel.info/)
+- [Internet Curated](https://internetcurated.com/) - Collection of 150+ hand-picked curated resources & tools.
 
 ## Apple Device Tools
 - [Macscripter](http://macscripter.net/index.php)
