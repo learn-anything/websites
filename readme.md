@@ -96,6 +96,7 @@
 - [Metacademy](https://www.metacademy.org/)
 - [MIT courses](https://ocw.mit.edu/courses/)
 - [Coursera](https://www.coursera.org/)
+- [Alcamy](https://alcamy.org/library) - Internet's catalog of knowledge.
 - [Explained visually](http://setosa.io/ev/) - Website dedicated to Explorable Explanations.
 - [Open yale courses](http://oyc.yale.edu/)
 - [Code academy](https://www.codecademy.com/learn/all) - Free online coding tutorials.
