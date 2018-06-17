@@ -94,6 +94,7 @@
 - [Udemy](https://www.udemy.com/user/nikitavoloboev/)
 - [TED](https://www.ted.com/) - Free Expert Academic Talks.
 - [Metacademy](https://www.metacademy.org/)
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 - [MIT courses](https://ocw.mit.edu/courses/)
 - [Coursera](https://www.coursera.org/)
 - [Alcamy](https://alcamy.org/library) - Internet's catalog of knowledge.
