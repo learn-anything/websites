@@ -280,6 +280,7 @@
 - [Carbon](https://carbon.now.sh/) - Create and share beautiful images of your source code.
 - [lpaste](http://lpaste.net) - Pastebin.
 - [Href tools](https://hreftools.com/) - Online web tools to get work done faster.
+- [TypeScript Playground](https://www.typescriptlang.org/play) - Compile TS to JS or run it.
 - [Draw.io](https://www.draw.io/) - Online flowchart maker.
 - [Updwn](http://updwn.co/) - Make simple, realtime polls.
 - [Vocaroo](http://vocaroo.com/) - Voice recording service.
