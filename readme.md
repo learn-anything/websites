@@ -1,6 +1,6 @@
 # Websites [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](contributing.md) before contributing._
+Dont forget to check this out [contribution guidelines](contributing.md) before contributing._
 
 - [Apple Device Tools](#apple-device-tools)
 - [Cloud services](#cloud-services)
@@ -91,7 +91,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Paypal](https://www.paypal.com)
 - [Trading view](https://www.tradingview.com/)
 
-## Games
+## Awsome Games for Programmers
 
 - [Checkio](https://py.checkio.org/) - Games for coding.
 - [Code combat](https://codecombat.com/) - Programming Game designed for Students.
@@ -277,7 +277,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Touch pianist](http://touchpianist.com/)
 - [YTRadio](https://ytradio.xyz/#/) - Live music playlists from YouTube.
 
-## News
+## Geeky News
 
 - [Brain pickings](https://www.brainpickings.org/) - Online magazine written by Maria Popova.
 - [Code HN](https://code.hn/) Hacker news with only links from GitHub or GitLab.
