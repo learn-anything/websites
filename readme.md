@@ -1,6 +1,6 @@
 # Websites [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 
-_Please read [contribution guidelines](contributing.md) before contributing._
+_Please read the [contribution guidelines](contributing.md) before contributing here._
 
 - [Apple Device Tools](#apple-device-tools)
 - [Cloud services](#cloud-services)
@@ -358,7 +358,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Failory](https://failory.com/) - Learn from failed startups.
 - [Indie Hackers](https://www.indiehackers.com/) - Community and stories of successful solo founders.
 
-## Tools
+## Tools which are required:-
 
 - [10 min mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-4717) - Have a temporary email for 10 minutes.
 - [Asciinema](https://asciinema.org/~nikivi) - Free and open source way to record terminal sessions and share them on the web.
@@ -407,17 +407,17 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Vimeo](https://vimeo.com/) - Free online high quality video sharing.
 - [YouTube](https://www.youtube.com/) - Free Online Video Sharing.
 
-## Wiki
+## Wiki search
 
 - [Keyboard Maestro](https://wiki.keyboardmaestro.com/User_Manual)
 
-## Other
+## Others
 
 - [HN leader board](https://hnleaderboard.com/?)
 - [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
 - [Octopart](https://octopart.com/) - Search engine for electronic parts.
 
-## Related
+## Some related websites you can enjoy
 
 - [Best websites a progammer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
