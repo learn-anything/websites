@@ -260,6 +260,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [DataQuest](https://www.dataquest.io/)
 - [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis through Machine learning.
 
+## New Mobile Market and tech products
+
+- [DIGIT](https://www.digit.in/) - Updated and satisfacory information about mobiles and learn to compare tech products for best buy.
+
 ## Music
 
 - [Bandcamp](https://bandcamp.com/)
