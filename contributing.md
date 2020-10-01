@@ -1,4 +1,4 @@
-# Contributing
+# Contributing for Awesome Website
 
 Thank you for taking the time to contribute! ♥️ Ensure your PR adheres to following guidelines:
 
