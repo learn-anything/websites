@@ -1,5 +1,5 @@
-# Websites [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
-
+# Websites [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lis
+Best one for tech learners but can u make make comments section for the user feedback.
 _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Apple Device Tools](#apple-device-tools)
